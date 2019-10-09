@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Un sensore di temperatura DIY con NodeMCU TEST3"
-date: 2018-11-04
-excerpt: 'Come utilizzare il NodeMCU e il sensore di temperatura DHT22 per creare una "stazione meteo" fatta in casa integrandola anche con Domoticz e Homebridge.'
+title: "Summer Holidays 2019"
+date: 2019-10-09
+excerpt: ""
 project: true
 tag: project
 comments: false
 published: true
 ---
 
-The GitHub repo for this project is available [Here](https://github.com/lucacorbucci/NodeMCUScript)
+Test
