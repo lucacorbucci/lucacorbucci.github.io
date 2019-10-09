@@ -10,7 +10,7 @@ locale: it_IT
 url: https://lucacorbucci.me
 
 # Jekyll
-permalink: /:title/
+permalink: /blog/:title/
 markdown: kramdown
 highlighter: rouge
 kramdown:
