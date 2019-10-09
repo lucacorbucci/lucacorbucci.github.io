@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Holidays 2019 in Sicily"
-date: 2019-10-09
+date: 2019-10-08
 excerpt: ""
 project: true
 tag: project
