@@ -1,6 +1,6 @@
 # Site navigation links
 
 - title: Projects
-  url: projects/
+  url: /projects/
 - title: Blog
-  url: blog/
+  url: /blog/

@@ -25,7 +25,7 @@ layout: compress
 						</a>
 					</div>
 					<div class="post-list">
-						{% for post in site.posts %} {% if post.project == null %}
+						{% for post in site.posts %}
 						<ul>
 							<li class="wow fadeInLeft" data-wow-duration="1.5s">
 								<a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{
@@ -37,7 +37,7 @@ layout: compress
 								>
 							</li>
 						</ul>
-						{% endif %} {% endfor %}
+						{% endfor %}
 					</div>
 				</div>
 			</div>
