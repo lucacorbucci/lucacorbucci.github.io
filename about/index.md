@@ -13,6 +13,9 @@ comments: false
     I love programming, football, motorsport and photography.</p>
 
 <br>
+
+My curriculum is also available in (_PDF_)[https://github.com/lucacorbucci/lucacorbucci.github.io/raw/master/Curriculum/Curriculum_EN.pdf]. (Click [Here for the italian version](https://github.com/lucacorbucci/lucacorbucci.github.io/raw/master/Curriculum/Curriculum_IT.pdf)).
+
 # <font color="#2eca7f">Education</font>
 
 #### Master Degree in Computer Science <span style="float:right; text-align:center">2018-Now</span>
