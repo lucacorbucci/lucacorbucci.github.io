@@ -11,7 +11,7 @@ comments: false
 <p>My name is Luca Corbucci, I was born on 12th August 1995 in Viterbo<br>
     I'm currently enrolled in the Master Degree in Computer Science at the University of Pisa<br>
     I love programming, football, motorsport and photography.
-    My curriculum is also available in (PDF)[https://github.com/lucacorbucci/lucacorbucci.github.io/raw/master/Curriculum/Curriculum_EN.pdf]. (Click [Here for the italian version](https://github.com/lucacorbucci/lucacorbucci.github.io/raw/master/Curriculum/Curriculum_IT.pdf)).</p>
+    My curriculum is also available in [PDF](https://github.com/lucacorbucci/lucacorbucci.github.io/raw/master/Curriculum/Curriculum_EN.pdf). (Click [Here](https://github.com/lucacorbucci/lucacorbucci.github.io/raw/master/Curriculum/Curriculum_IT.pdf) for the italian version).</p>
 
 <br>
 
