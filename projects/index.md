@@ -5,7 +5,7 @@ excerpt: "My projects"
 comments: false
 ---
 
-# <font color="#2eca7f">Progetti Personali</font>
+# <font color="#2eca7f">Personal Projects</font>
 
 ### <font color="#53b3e2">PointerPodcast</font> <span style="float:right; text-align:center">2019-In corso</span>
 
@@ -27,7 +27,7 @@ to send them to a Raspberry Pi using MQTT. The data are stored on the Raspberry 
 <br>
 <b>Utilized:</b> Python, MongoDB, Git.
 
-# <font color="#2eca7f">Progetti Universitari</font>
+# <font color="#2eca7f">University Projects</font>
 
 ### <font color="#53b3e2">Autonomic Farm Pattern</font> <span style="float:right; text-align:center">2019</span>
 
