@@ -21,13 +21,13 @@ My curriculum is also available in [PDF](https://github.com/lucacorbucci/lucacor
 
 #### Master Degree in Computer Science <span style="float:right; text-align:center">2018-Now</span>
 
-Since October 2018 I'm enrolled in the Master Degree in Computer Science(curriculum “Data and Knowledge: Science and Technologies”) at the University of Pisa.
+Since October 2018 I'm enrolled in the Master Degree in Computer Science (curriculum “Data and Knowledge: Science and Technologies”) at the University of Pisa.
 During my Master Degree I spent 6 months as Erasmus Student at the Technische Universität of Munich.
 
 #### Bachelor degree in Computer Science <span style="float:right; text-align:center">2014-2018</span>
 
 Since September 2014 to October 2018 I was enrolled in the Bachelor Degree in computer science at the University of Pisa.
-In my bachelor theses I studied the transactions of the Ethereum Blockchain. I downloaded all the transactions from the
+In my bachelor thesis I studied the transactions of the Ethereum Blockchain. I downloaded all the transactions from the
 Ethereum Blockchain and then I represented them into a graph using WebGraph.
 
 #### High School <span style="float:right; text-align:center">2009-2014</span>

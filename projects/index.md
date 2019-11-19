@@ -9,7 +9,7 @@ comments: false
 
 ### <font color="#53b3e2">PointerPodcast</font> <span style="float:right; text-align:center">2019-In corso</span>
 
-<b>Description:</b> in may 2019 I started a podcast called PointerPodcast.
+<b>Description:</b> in May 2019 I started a podcast called PointerPodcast.
 I started this project with two friends, we developed our server infrastructure and our [website](https://pointerpodcast.it).
 In our podcast we talk about technology and nerdy things.
 <b>Utilized:</b> Docker, Nginx, Wordpress, Adobe Audition.
@@ -46,7 +46,7 @@ a browser.
 <br>
 <b><a href="https://github.com/lucacorbucci/SmartAuctions">GitHub</a></b>
 
-### <font color="#53b3e2">Costruzione ed analisi del grafo delle transazioni di Ethereum</font> <span style="float:right; text-align:center">2018</span>
+### <font color="#53b3e2">Bachelor Degree Thesis: "Costruzione ed analisi del grafo delle transazioni di Ethereum"</font> <span style="float:right; text-align:center">2018</span>
 
 <b>Description:</b> this is the project that i developed for my bachelor degree thesis. I downloaded a lot of transactions
 from the Ethereum Blockchain and then i built a graph to represent them using WebGraph.
