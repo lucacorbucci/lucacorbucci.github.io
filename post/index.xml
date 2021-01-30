@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Posts | Luca Corbucci</title>
     <link>https://lucacorbucci.me/post/</link>
       <atom:link href="https://lucacorbucci.me/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lucacorbucci.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,96 +13,54 @@
     </image>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://lucacorbucci.me/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://lucacorbucci.me/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; data-caption=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-
-
-  &lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+      <title>Summer Holidays 2019</title>
+      <link>https://lucacorbucci.me/post/erasmus_2019_2020/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/post/erasmus_2019_2020/</guid>
+      <description>&lt;p&gt;I started my bachelor degree in 2014 and I moved to Pisa to attend the lectures at the University, here I met some Sicilian people and for 5 years they invited me to go in Sicily to see the beautiful sea and to visit all the beautiful places of this island.
+I never listened to them until the last winter when I organized my first trip to Sicily and I went to Giarratana, a little village near Ragusa.&lt;/p&gt;
+&lt;p&gt;I loved the places that I visited and I also loved the sea even if it was Febraury and it was too cold to go on the beach to swim and have fun.&lt;/p&gt;
+&lt;p&gt;After this first trip I decided to organize another trip, this time i changed my destination and I decided to go to “San Vito Lo Capo” a beautiful and famous touristic location in the west of the Sicily.&lt;/p&gt;
+&lt;p&gt;I arrived in Sicily on the 14th of August and I stayed there for one week, during these days I visited a lot of places and I ate a lot of delicious typical food.&lt;/p&gt;
+&lt;p&gt;My trip started with a visit to some beaches near San Vito, in Italy they are called &amp;ldquo;Calette&amp;rdquo;, we rented a scooter and we went to these beaches. During the entire day the sea was rough but we appreciated the landscape and the contrast between the sea that and the mountains.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_4982.jpeg?token=AAQYXWU6ODBPH2KWOPNKYR25VHX6I&#34; alt=&#34;IMG_4982.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I shot the previous photo during the first day and I think that it is one of the best photo that I have ever taken with my iPhone. As you can see there are a lot of rocks on the beach and it was really funny to walk over it, from this picture you can also see the contrast between sea and mountains.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_5410.jpeg?token=AAQYXWX2KX3GBCMSSPEAO6S5VJDIC&#34; alt=&#34;IMG_5410.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_4929.jpeg?token=AAQYXWQ27K2UODXAFMPEFX25VJDFQ&#34; alt=&#34;IMG_4929.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The excursion to the &amp;ldquo;Riserva dello zingaro&amp;rdquo; was the one that i enjoyed most, we took a boat and we visited some caves.
+It was amazing, I was really excited especially when we saw some dolphins in the sea, it was an unforgettable experience.&lt;/p&gt;
+&lt;p&gt;We have done another excursion by boat to &amp;ldquo;Favignana&amp;rdquo; and &amp;ldquo;Levanzo&amp;rdquo;, i liked it especially the &amp;ldquo;Levanzo&amp;rdquo; island that is smaller than &amp;ldquo;Favignana&amp;rdquo; but is really nice to visit.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_6078.jpeg?token=AAQYXWUDRDGX3EHFNJSO6VC5VJDUE&#34; alt=&#34;IMG_6078.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As I said during the days that i passed in Sicily I ate a lot of typical foods. I loved the &amp;ldquo;Arancino&amp;rdquo; and I ate one of it almost every day. The Arancino is a typical sicilian food that is prepared with rice and sauce with meat then it is fried.
+&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_4511.jpeg?token=AAQYXWTUGXM6TD4PGZNLZ7S5VJDDO&#34; alt=&#34;IMG_4511.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I also ate some foods that i usually don&amp;rsquo;t eat like raw fish or also cous cous.&lt;/p&gt;
+&lt;p&gt;After one week I left Sicily but I promised that I&amp;rsquo;ll go back as soon as I can to visit not only the sea but also the mountainous part and some other cities (and also to eat some others Arancini and Cannoli :D).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer Holidays 2019</title>
+      <link>https://lucacorbucci.me/post/summer_2019/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/post/summer_2019/</guid>
+      <description>&lt;p&gt;I started my bachelor degree in 2014 and I moved to Pisa to attend the lectures at the University, here I met some Sicilian people and for 5 years they invited me to go in Sicily to see the beautiful sea and to visit all the beautiful places of this island.
+I never listened to them until the last winter when I organized my first trip to Sicily and I went to Giarratana, a little village near Ragusa.&lt;/p&gt;
+&lt;p&gt;I loved the places that I visited and I also loved the sea even if it was Febraury and it was too cold to go on the beach to swim and have fun.&lt;/p&gt;
+&lt;p&gt;After this first trip I decided to organize another trip, this time i changed my destination and I decided to go to “San Vito Lo Capo” a beautiful and famous touristic location in the west of the Sicily.&lt;/p&gt;
+&lt;p&gt;I arrived in Sicily on the 14th of August and I stayed there for one week, during these days I visited a lot of places and I ate a lot of delicious typical food.&lt;/p&gt;
+&lt;p&gt;My trip started with a visit to some beaches near San Vito, in Italy they are called &amp;ldquo;Calette&amp;rdquo;, we rented a scooter and we went to these beaches. During the entire day the sea was rough but we appreciated the landscape and the contrast between the sea that and the mountains.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_4982.jpeg?token=AAQYXWU6ODBPH2KWOPNKYR25VHX6I&#34; alt=&#34;IMG_4982.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I shot the previous photo during the first day and I think that it is one of the best photo that I have ever taken with my iPhone. As you can see there are a lot of rocks on the beach and it was really funny to walk over it, from this picture you can also see the contrast between sea and mountains.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_5410.jpeg?token=AAQYXWX2KX3GBCMSSPEAO6S5VJDIC&#34; alt=&#34;IMG_5410.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_4929.jpeg?token=AAQYXWQ27K2UODXAFMPEFX25VJDFQ&#34; alt=&#34;IMG_4929.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The excursion to the &amp;ldquo;Riserva dello zingaro&amp;rdquo; was the one that i enjoyed most, we took a boat and we visited some caves.
+It was amazing, I was really excited especially when we saw some dolphins in the sea, it was an unforgettable experience.&lt;/p&gt;
+&lt;p&gt;We have done another excursion by boat to &amp;ldquo;Favignana&amp;rdquo; and &amp;ldquo;Levanzo&amp;rdquo;, i liked it especially the &amp;ldquo;Levanzo&amp;rdquo; island that is smaller than &amp;ldquo;Favignana&amp;rdquo; but is really nice to visit.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_6078.jpeg?token=AAQYXWUDRDGX3EHFNJSO6VC5VJDUE&#34; alt=&#34;IMG_6078.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As I said during the days that i passed in Sicily I ate a lot of typical foods. I loved the &amp;ldquo;Arancino&amp;rdquo; and I ate one of it almost every day. The Arancino is a typical sicilian food that is prepared with rice and sauce with meat then it is fried.
+&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_4511.jpeg?token=AAQYXWTUGXM6TD4PGZNLZ7S5VJDDO&#34; alt=&#34;IMG_4511.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I also ate some foods that i usually don&amp;rsquo;t eat like raw fish or also cous cous.&lt;/p&gt;
+&lt;p&gt;After one week I left Sicily but I promised that I&amp;rsquo;ll go back as soon as I can to visit not only the sea but also the mountainous part and some other cities (and also to eat some others Arancini and Cannoli :D).&lt;/p&gt;
 </description>
     </item>
     
