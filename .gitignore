@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IDEs
 .idea/
 
@@ -6,3 +7,9 @@
 public/
 jsconfig.json
 node_modules/
+=======
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
+>>>>>>> 192bc74baaaf3c4df397fd17f48efdd0e685df01
