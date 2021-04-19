@@ -5,12 +5,20 @@
     <link>https://lucacorbucci.me/</link>
       <atom:link href="https://lucacorbucci.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Luca Corbucci</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lucacorbucci.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Luca Corbucci</title>
       <link>https://lucacorbucci.me/</link>
     </image>
+    
+    <item>
+      <title>Natural Language Processing nel campo Healthcare: storia della mia tesi</title>
+      <link>https://lucacorbucci.me/talk/natural-language-processing-nel-campo-healthcare-storia-della-mia-tesi/</link>
+      <pubDate>Thu, 15 Apr 2021 11:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/talk/natural-language-processing-nel-campo-healthcare-storia-della-mia-tesi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Summer Holidays 2019</title>
