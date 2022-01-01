@@ -25,8 +25,8 @@
 
 [[main]]
   name = "Posts"
-  url = "#posts"
-  weight = 50
+  url = "https://blog.lucacorbucci.me/"
+  #weight = 50
 
 #[[main]]
 #  name = "Publications"

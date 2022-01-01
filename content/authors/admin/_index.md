@@ -6,31 +6,30 @@ title: Luca Corbucci
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Student
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-# - name: Stanford University
-#  url: https://www.stanford.edu/
+  - name: University of Pisa
+    url: https://di.unipi.it/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My name is Luca Corbucci, I was born on 12th August 1995 in Viterbo. I'm currently enrolled in the Master Degree in Computer Science at the University of Pisa.
+bio: My name is Luca Corbucci, I was born on 12th August 1995 in Viterbo. I’m a PhD candidate in Computer Science at the University of Pisa.
 
 # Interests to show in About widget
 interests:
+  - Explainable AI
   - Data Science
-  - Natural Language Processing
-  - Flutter
 
 # Education to show in About widget
 education:
   courses:
     - course: "Master Degree in Computer Science - Data and Knowledge: Science and Technologies curriculum"
       institution: University of Pisa
-      year: 2018-2021
+      year: 2021
     - course: Bachelor Degree in Computer Science
       institution: University of Pisa
-      year: 2014-2018
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -72,9 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm Luca Corbucci and I was born on 12th August 1995 in Viterbo.
-I'm currently enrolled in the Master Degree in Computer Science at the University of Pisa.
-I love programming, football, motorsport and photography.
-I'm the co-founder and the co-host of PointerPodcast, a podcast about technological and scientific topics.
+Hi 👋! I'm Luca Corbucci, a PhD candidate in Computer Science at the University of Pisa, my main interest is Explainable AI.
+
+I'm the co-founder of [PointerPodcast](https://pointerpodcast.it/) and the co-founder of [SuperHeroesValley](https://www.superheroesvalley.fun/), a community that organize meetups for ambitious CS students to build a bridge between university and big tech companies.
 
 <!---{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}--->
