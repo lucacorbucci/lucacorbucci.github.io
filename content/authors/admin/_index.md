@@ -14,7 +14,7 @@ organizations:
     url: https://di.unipi.it/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My name is Luca Corbucci, I was born on 12th August 1995 in Viterbo. I’m a PhD candidate in Computer Science at the University of Pisa.
+bio: I'm Luca Corbucci, a Ph.D. candidate in Computer Science at the University of Pisa, my main research interests are Explainable AI, Federated Learning and privacy risks in federated learning.
 
 # Interests to show in About widget
 interests:
@@ -75,12 +75,12 @@ email: ""
 highlight_name: false
 ---
 
-Hi 👋! I'm Luca Corbucci, a Ph.D. candidate in Computer Science at the University of Pisa, my main research interests are Explainable AI, Federated Learning and privacy risks in federated learning.
+Hi 👋! I'm Luca Corbucci, a Ph.D. candidate in Computer Science at the University of Pisa. My main research interests are Explainable AI, Federated Learning and privacy risks in federated learning.
 
 I received a B.Sc. degree in Computer Science in 2018 and a M.Sc. degree in Computer Science with a thesis about "Semantic enrichment of XAI explanations for healthcare".
 
 In 2019 I spent one semester at the Computer Science Departement of the Technische Universität München as exchange student thanks to the Erasmus program.
 
-I'm the co-founder of [PointerPodcast](https://pointerpodcast.it/) and the co-founder of [SuperHeroesValley](https://www.superheroesvalley.fun/), a community that organize meetups for ambitious CS students to build a bridge between university and big tech companies.
+I'm the co-founder of ["PointerPodcast"](https://pointerpodcast.it/) and the co-founder of ["SuperHeroesValley"](https://www.superheroesvalley.fun/), a community that organize meetups for ambitious CS students to build a bridge between university and big tech companies.
 
 <!---{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}--->
