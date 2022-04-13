@@ -79,8 +79,8 @@ Hi 👋! I'm Luca Corbucci, a Ph.D. candidate in Computer Science at the Univers
 
 I received a B.Sc. degree in Computer Science in 2018 and a M.Sc. degree in Computer Science with a thesis about "Semantic enrichment of XAI explanations for healthcare".
 
-In 2019 I spent one semester at the Computer Science Departement of the Technische Universität München as exchange student thanks to the Erasmus program.
+In 2019 I spent one semester at the Computer Science Department of the Technische Universität München as an exchange student thanks to the Erasmus program.
 
-I'm the co-founder of ["PointerPodcast"](https://pointerpodcast.it/) and the co-founder of ["SuperHeroesValley"](https://www.superheroesvalley.fun/), a community that organize meetups for ambitious CS students to build a bridge between university and big tech companies.
+I'm the co-founder of ["PointerPodcast"](https://pointerpodcast.it/) and the co-founder of ["SuperHeroesValley"](https://www.superheroesvalley.fun/), a community that organizes meetups for ambitious CS students to build a bridge between university and big tech companies.
 
 <!---{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}--->
