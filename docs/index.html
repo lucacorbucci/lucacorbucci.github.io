@@ -1,3073 +1,433 @@
-<!DOCTYPE html><html lang="en-us" >
-
-<head>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!DOCTYPE html>
+<html
+  lang="en"
+  dir="ltr"
+  class="scroll-smooth"
+  data-default-appearance="dark"
+  data-auto-appearance="true"
+><head>
+	<meta name="generator" content="Hugo 0.101.0" />
+  <meta charset="utf-8" />
+  
+    <meta http-equiv="content-language" content="en" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  
-  
-  <meta name="generator" content="Wowchemy 5.0.0-beta.2 for Hugo">
-  
-
-  
-
-  
-  
-
-  
-  
-  
-  
-  
-    
-    
-    
-  
-  
-
-  <meta name="author" content="Luca Corbucci">
-
-  
-  
-  
-    
-  
-  <meta name="description" content="Ph.D. candidate">
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://lucacorbucci.me/">
-
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-  
-  
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  
-
-  
-  
-  
-  <meta name="theme-color" content="#1565c0">
-  
-
-  
-  
-  
-  <script src="/js/mathjax-config.js"></script>
-  
-
-  
-  
-  
-  
-    
-    
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
-
-    
-    
-    
-      
-    
-    
-      
-      
-        
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
-        
-      
-    
-
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
-    
-
-    
-
-    
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-
-  
-
-  
-  
-  
-    
-      
-      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
-    
-  
-
-  
-  
-  
-  
-  
-  <link rel="stylesheet" href="/css/wowchemy.989bbfa694844ab8ac3ba2f9d39814c6.css">
-
-  
-
-
-
-
-  
-
-  
-
-
-  
-  
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  
-
-  
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Luca Corbucci">
-  
-
-  
-  <link rel="manifest" href="/index.webmanifest">
-  
-
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png">
-
-  <link rel="canonical" href="https://lucacorbucci.me/">
-
-  
-  
-  
-  
-  
-  
-  
-    
-    
-  
-  
-  <meta property="twitter:card" content="summary">
-  
-  <meta property="og:site_name" content="Luca Corbucci">
-  <meta property="og:url" content="https://lucacorbucci.me/">
-  <meta property="og:title" content="Luca Corbucci">
-  <meta property="og:description" content="Ph.D. candidate"><meta property="og:image" content="https://lucacorbucci.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="https://lucacorbucci.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
-  
-    <meta property="og:updated_time" content="2021-04-15T11:00:00&#43;00:00">
-  
-
-  
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://lucacorbucci.me/?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  },
-  "url": "https://lucacorbucci.me/"
-}
-</script>
-
-
-  
-
-
-  
-
-
-  
-
-
-
-
-
   <title>Luca Corbucci</title>
+    <meta name="title" content="Luca Corbucci" />
+  
+  
+  
+  
+  
+  <link rel="canonical" href="/" />
+  <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Luca Corbucci" />
+  <link rel="alternate" type="application/json" href="/index.json" title="Luca Corbucci" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <link
+    type="text/css"
+    rel="stylesheet"
+    href="/css/main.bundle.min.277fef28afac0161d1ab19b4380dd47668e9cf3ddbaa6c9def6bb05912a220deb81a7e0cdea5cb207412e112dffb1639b2bbc97da06b83dded5068c5d3cdbc9e.css"
+    integrity="sha512-J3/vKK&#43;sAWHRqxm0OA3Udmjpzz3bqmyd72uwWRKiIN64Gn4M3qXLIHQS4RLf&#43;xY5srvJfaBrg93tUGjF0828ng=="
+  />
+  
+  
+  <script type="text/javascript" src="/js/appearance.min.badab316c9287a5a42a843e4eb45da65bb3d194a5a0f5fa4a3e516160e67df0b8c65f4f19a8e146436e29d583699e6cb41d6bbe99e05e1dbaa877763bad9f8e2.js" integrity="sha512-utqzFskoelpCqEPk60XaZbs9GUpaD1&#43;ko&#43;UWFg5n3wuMZfTxmo4UZDbinVg2mebLQda76Z4F4duqh3djutn44g=="></script>
+  
+  
+    
+    
+  
+  
+  
+    
+    <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.9947db70e5b36e741e53f8531bd734741b3fc7a688f7b5d749fc5433c48efc252f47bdf44e471570a550fc051b87712799014040e6349b38d64448b94e84e45a.js" integrity="sha512-mUfbcOWzbnQeU/hTG9c0dBs/x6aI97XXSfxUM8SO/CUvR730TkcVcKVQ/AUbh3EnmQFAQOY0mzjWREi5ToTkWg==" data-copy="Copy" data-copied="Copied"></script>
+  
+  
+  
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:title" content="Luca Corbucci" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/" /><meta property="og:site_name" content="Luca Corbucci" />
 
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Luca Corbucci"/>
+<meta name="twitter:description" content=""/>
+
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "\/",
+    "name": "Luca Corbucci",
+    
+    "inLanguage": "en",
+    "url": "\/",
+    
+    "publisher" : {
+      "@type": "Person",
+      "name": "Luca Corbucci"
+    }
+  }
+  </script>
+
+
+  
+  <meta name="author" content="Luca Corbucci" />
+  
+    
+      <link href="mailto:luca.corbucci@phd.unipi.it" rel="me" />
+    
+      <link href="https://github.com/lucacorbucci" rel="me" />
+    
+      <link href="https://www.linkedin.com/in/lucacorbucci/" rel="me" />
+    
+      <link href="https://lucacorbucci.medium.com/" rel="me" />
+    
+      <link href="https://t.me/pointerpodcastgruppo" rel="me" />
+    
+      <link href="https://twitter.com/lucacorbucci" rel="me" />
+    
+  
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+  
+  
 </head>
-
-
-<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper  ">
-
+<body
+    class="flex flex-col h-screen px-6 m-auto text-lg leading-7 bg-neutral text-neutral-900 sm:px-14 md:px-24 lg:px-32 dark:bg-neutral-800 dark:text-neutral max-w-7xl"
+  >
+    <div id="the-top" class="absolute flex self-center">
+      <a
+        class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 dark:bg-neutral-600 focus:translate-y-0"
+        href="#main-content"
+        ><span class="font-bold ltr:pr-2 rtl:pl-2 text-primary-600 dark:text-primary-400"
+          >&darr;</span
+        >Skip to main content</a
+      >
+    </div><header
+  class="flex justify-between py-6 font-semibold sm:items-center sm:py-10 text-neutral-900 dark:text-neutral print:hidden"
+>
   
-  
-  
-  
-  
-  
-  
-  
-  <script src="/js/wowchemy-init.min.8446300de3057dfecd2dbb1103d0e171.js"></script>
+  <div>
+    
+      <a
+        class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+        rel="me"
+        href="/"
+        >Luca Corbucci</a
+      >
+    
 
-  
-
-<aside class="search-modal" id="search">
-  <div class="container">
-    <section class="search-header">
-
-      <div class="row no-gutters justify-content-between mb-3">
-        <div class="col-6">
-          <h1>Search</h1>
-        </div>
-        <div class="col-6 col-search-close">
-          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
-        </div>
-      </div>
-
-      <div id="search-box">
-        
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
-        aria-label="Search...">
-        
-      </div>
-
-      
-      
-
-      
-
-    </section>
-    <section class="section-search-results">
-
-      <div id="search-hits">
-        
-      </div>
-
-    </section>
   </div>
-</aside>
-
-
-
-  <div class="page-header">
-    
-
-
-
-
-
-
-
-
-
-
-
-
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container-xl">
-
-    
-    <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Luca Corbucci</a>
-    </div>
-    
-
-    
-    <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-    <span><i class="fas fa-bars"></i></span>
-    </button>
-    
-
-    
-    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Luca Corbucci</a>
-    </div>
-    
-
-    
-    
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
-
-      
-      <ul class="navbar-nav d-md-inline-flex">
+  
+  
+    <nav>
+      <ul class="flex flex-col list-none sm:flex-row">
+        
+          <li
+            class="mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0"
+          >
+            <a
+              class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+              href="https://blog.lucacorbucci.me/"
+              title=""
+              >Posts</a
+            >
+          </li>
+        
+          <li
+            class="mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0"
+          >
+            <a
+              class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+              href="/talks/"
+              title="Talks and Podcasts"
+              >Talks</a
+            >
+          </li>
+        
+          <li
+            class="mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0"
+          >
+            <a
+              class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+              href="/research/"
+              title="Research"
+              >Research</a
+            >
+          </li>
+        
+          <li
+            class="mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0"
+          >
+            <a
+              class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+              href="/about-me/"
+              title="Hi there I&#39;m Luca 👋"
+              >About me</a
+            >
+          </li>
         
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#experience" data-target="#experience"><span>Experience</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#talks" data-target="#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-            
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="https://blog.lucacorbucci.me/" target="_blank" rel="noopener"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-      
-
         
       </ul>
-    </div>
-
-    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-
-      
-      
-        
-      
-
-      
-      
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
-      
-
-      
-      
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
-          <i class="fas fa-moon" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
+    </nav>
+  
+</header>
+<div class="relative flex flex-col grow">
+      <main id="main-content" class="grow">
+  
+  
+    <div class="flex items-center justify-center h-full">
+    <div class="flex flex-col sm:flex-row w-full items-center text-center sm:items-stretch sm:text-left">
+        <div class="w-56 h-56 rounded-md sm:w-52 sm:h-auto sm:mr-6 md:mr-8 lg:mr-12">
+            
+            
+            
+            <img class="mb-2 rounded-full" width="200" height="200" src="/img/profile_pic1.png" />
+            
+            
         </div>
-      </li>
-      
-
-      
-
-    </ul>
-
-  </div>
-</nav>
-
-
-  </div>
-
-  <div class="page-body">
+        <article class="flex flex-col justify-start">
+            <header class="mb-3">
+                <h1 class="text-4xl font-extrabold">
+                    Luca Corbucci
+                </h1>
+                <div>
+                    
+                    <p class="mb-2 text-lg md:text-xl text-neutral-400 dark:text-neutral-500">
+                        Ph.D. candidate in Computer Science, podcaster and community manager
+                    </p>
+                    
+                    <div class="mt-0 text-2xl sm:text-xl md:mt-1 md:text-2xl flex justify-center sm:justify-start">
+                        <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
+  <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
     
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="mailto:luca.corbucci@phd.unipi.it"
+          target="_blank"
+          aria-label="Email"
+          rel="me noopener noreferrer"
+          >
 
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M207.8 20.73c-93.45 18.32-168.7 93.66-187 187.1c-27.64 140.9 68.65 266.2 199.1 285.1c19.01 2.888 36.17-12.26 36.17-31.49l.0001-.6631c0-15.74-11.44-28.88-26.84-31.24c-84.35-12.98-149.2-86.13-149.2-174.2c0-102.9 88.61-185.5 193.4-175.4c91.54 8.869 158.6 91.25 158.6 183.2l0 16.16c0 22.09-17.94 40.05-40 40.05s-40.01-17.96-40.01-40.05v-120.1c0-8.847-7.161-16.02-16.01-16.02l-31.98 .0036c-7.299 0-13.2 4.992-15.12 11.68c-24.85-12.15-54.24-16.38-86.06-5.106c-38.75 13.73-68.12 48.91-73.72 89.64c-9.483 69.01 43.81 128 110.9 128c26.44 0 50.43-9.544 69.59-24.88c24 31.3 65.23 48.69 109.4 37.49C465.2 369.3 496 324.1 495.1 277.2V256.3C495.1 107.1 361.2-9.332 207.8 20.73zM239.1 304.3c-26.47 0-48-21.56-48-48.05s21.53-48.05 48-48.05s48 21.56 48 48.05S266.5 304.3 239.1 304.3z"/></svg>
 
+  </span>
 
-
-
-
-
-
-
-  
-<span class="js-widget-page d-none"></span>
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-  
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-  <section id="about" class="home-section wg-about  "  >
-   <div class="home-section-bg " ></div>
-    <div class="container">
-
+</a
+        >
+      
     
-
       
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://github.com/lucacorbucci"
+          target="_blank"
+          aria-label="Github"
+          rel="me noopener noreferrer"
+          >
 
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
 
+  </span>
 
-
-  
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
-
+</a
+        >
       
+    
       
-      <img class="avatar avatar-circle" src="/author/luca-corbucci/avatar_hu98e843a329837081b51c110f0f91bf96_686123_270x270_fill_q75_lanczos_center.jpg" alt="Luca Corbucci">
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://www.linkedin.com/in/lucacorbucci/"
+          target="_blank"
+          aria-label="Linkedin"
+          rel="me noopener noreferrer"
+          >
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+
+  </span>
+
+</a
+        >
       
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://lucacorbucci.medium.com/"
+          target="_blank"
+          aria-label="Medium"
+          rel="me noopener noreferrer"
+          >
 
-      <div class="portrait-title">
-        <h2>Luca Corbucci</h2>
-        <h3>Ph.D. candidate</h3>
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M180.5,74.262C80.813,74.262,0,155.633,0,256S80.819,437.738,180.5,437.738,361,356.373,361,256,280.191,74.262,180.5,74.262Zm288.25,10.646c-49.845,0-90.245,76.619-90.245,171.095s40.406,171.1,90.251,171.1,90.251-76.619,90.251-171.1H559C559,161.5,518.6,84.908,468.752,84.908Zm139.506,17.821c-17.526,0-31.735,68.628-31.735,153.274s14.2,153.274,31.735,153.274S640,340.631,640,256C640,171.351,625.785,102.729,608.258,102.729Z"/></svg>
 
-        
-        <h3>
-          <a href="https://di.unipi.it/en/" target="_blank" rel="noopener">
-          <span>University of Pisa</span>
-          </a>
-        </h3>
-        
-      </div>
+  </span>
 
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-        <li>
-          <a href="mailto:corbuccilu@gmail.com"  aria-label="envelope">
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener" aria-label="twitter">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://github.com/lucacorbucci" target="_blank" rel="noopener" aria-label="github">
-            <i class="fab fa-github big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://lucacorbucci.medium.com/" target="_blank" rel="noopener" aria-label="medium">
-            <i class="fab fa-medium big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://www.linkedin.com/in/lucacorbucci/" target="_blank" rel="noopener" aria-label="linkedin">
-            <i class="fab fa-linkedin big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://www.instagram.com/luca.corbucci" target="_blank" rel="noopener" aria-label="instagram">
-            <i class="fab fa-instagram big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="/media/CV_Luca_Corbucci.pdf"  aria-label="cv">
-            <i class="ai ai-cv big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
+</a
+        >
+      
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://t.me/pointerpodcastgruppo"
+          target="_blank"
+          aria-label="Telegram"
+          rel="me noopener noreferrer"
+          >
 
-    </div>
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z"/></svg>
+
+  </span>
+
+</a
+        >
+      
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://twitter.com/lucacorbucci"
+          target="_blank"
+          aria-label="Twitter"
+          rel="me noopener noreferrer"
+          >
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+
+  </span>
+
+</a
+        >
+      
+    
   </div>
-  <div class="col-12 col-lg-8">
 
-    
-    <h1>Biography</h1>
-
-    <div class="article-style">
-      <p>Hi 👋! I&rsquo;m Luca Corbucci, a Ph.D. candidate in Computer Science at the University of Pisa. My main research interests are Explainable AI, Federated Learning and privacy risks in federated learning.</p>
-<p>I received a B.Sc. degree in Computer Science in 2018 and a M.Sc. degree in Computer Science with a thesis about &ldquo;Semantic enrichment of XAI explanations for healthcare&rdquo;.</p>
-<p>In 2019 I spent one semester at the Computer Science Department of the Technische Universität München as an exchange student thanks to the Erasmus program.</p>
-<p>I&rsquo;m the co-founder of <a href="https://pointerpodcast.it/" target="_blank" rel="noopener">&ldquo;PointerPodcast&rdquo;</a> and the co-founder of <a href="https://www.superheroesvalley.fun/" target="_blank" rel="noopener">&ldquo;SuperHeroesValley&rdquo;</a>, a community that organizes meetups for ambitious CS students to build a bridge between university and big tech companies.</p>
-<!---
-  <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/media/demo_resume.pdf" target="_blank">resumé</a>--->
-
-    </div>
-
-    <div class="row">
-
-      
-      <div class="col-md-5">
-        <div class="section-subheading">Interests</div>
-        <ul class="ul-interests">
-          
-          <li>Explainable AI</li>
-          
-          <li>Federated Learning</li>
-          
-          <li>Privacy risks in federated learning</li>
-          
-        </ul>
-      </div>
-      
-
-      
-      <div class="col-md-7">
-        <div class="section-subheading">Education</div>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">Ph.D. in Computer Science, 2021 - Ongoing</p>
-              <p class="institution">University of Pisa</p>
+</div>
+                    </div>
+                </div>
+            </header>
+            <div class="prose prose-sm md:prose dark:prose-invert md:dark:prose-invert">
+                
+                <p>
+                    Hi 👋! I’m Luca Corbucci, a Ph.D. candidate in Computer Science at the University of Pisa. My main research interests are Federated Learning and Privacy Preserving Machine Learning. I am a podcaster and a community manager. Are you interested? <a href="about-me/">Read More</a>
+                </p>
+                
             </div>
-          </li>
+        </article>
+
+    </div>
+
+
+
+    <section class="prose dark:prose-invert"></section>
+    </article>
+  
+
+        
+      </main><footer class="py-10 print:hidden">
+  
+  
+  <div class="flex justify-between">
+    <div>
+      
+      <p class="text-sm text-neutral-500 dark:text-neutral-400">
+          &copy;
+          2022
+          Luca Corbucci
+      </p>
+      
+      
+        <p class="text-xs text-neutral-500 dark:text-neutral-400">
           
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">Master Degree in Computer Science - Data and Knowledge: Science and Technologies curriculum, 2021</p>
-              <p class="institution">University of Pisa</p>
-            </div>
-          </li>
           
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">Bachelor Degree in Computer Science, 2018</p>
-              <p class="institution">University of Pisa</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
+          Powered by <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+            href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="https://git.io/hugo-congo" target="_blank" rel="noopener noreferrer">Congo</a>
+        </p>
       
-
-    </div>
-  </div>
-</div>
-
-
-    
-
-    </div>
-  </section>
-
-  
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-  <section id="experience" class="home-section wg-experience  "  >
-   <div class="home-section-bg " ></div>
-    <div class="container">
-
-    
-      <div class="row  ">
-      
-        
-          <div class="col-12 col-lg-4 section-heading">
-            <h1>Experience</h1>
-            
-          </div>
-        
-      
-    
-
-      
-
-
-
-
-<div class="col-12 col-lg-8">
-  
-
-  
-  
-  
-  <div class="row experience">
-    
-    <div class="col-auto text-center flex-column d-none d-sm-flex">
-      <div class="row h-50">
-        <div class="col ">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-      <div class="m-2">
-        <span class="badge badge-pill border ">&nbsp;</span>
-      </div>
-      <div class="row h-50">
-        <div class="col ">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
     </div>
     
-    <div class="col py-2">
-      <div class="card">
-        <div class="card-body">
-          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Flutter Mobile Developer</div>
-          <div class="section-subheading card-title exp-company text-muted my-0">Tocket</div>
-          <div class="text-muted exp-meta">
-            Mar 2020 –
-            
-              Jan 2021
-            
-            
-              <span class="middot-divider"></span>
-              <span>Pisa</span>
-            
-          </div>
-          <div class="card-text"><ul>
-<li>Developed the MVP Tocket&rsquo;s application using Flutter.</li>
-<li>Improved application performances.</li>
-<li>Developed internal APIs using Flask and an internal Dashboard using React.</li>
-</ul>
-</div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  
-</div>
-
-
     
+      <div
+        class="text-sm cursor-pointer text-neutral-700 dark:text-neutral hover:text-primary-600 dark:hover:text-primary-400 ltr:mr-14 rtl:ml-14"
+      >
+        <button
+          id="appearance-switcher"
+          class="w-12 h-12 "
+          type="button"
+          title="Switch to dark appearance"
+        >
+          <span class="inline dark:hidden">
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
+
+  </span>
+
+</span>
+          <span class="hidden dark:inline">
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 159.1c-53.02 0-95.1 42.98-95.1 95.1S202.1 351.1 256 351.1s95.1-42.98 95.1-95.1S309 159.1 256 159.1zM509.3 347L446.1 255.1l63.15-91.01c6.332-9.125 1.104-21.74-9.826-23.72l-109-19.7l-19.7-109c-1.975-10.93-14.59-16.16-23.72-9.824L256 65.89L164.1 2.736c-9.125-6.332-21.74-1.107-23.72 9.824L121.6 121.6L12.56 141.3C1.633 143.2-3.596 155.9 2.736 164.1L65.89 256l-63.15 91.01c-6.332 9.125-1.105 21.74 9.824 23.72l109 19.7l19.7 109c1.975 10.93 14.59 16.16 23.72 9.824L256 446.1l91.01 63.15c9.127 6.334 21.75 1.107 23.72-9.822l19.7-109l109-19.7C510.4 368.8 515.6 356.1 509.3 347zM256 383.1c-70.69 0-127.1-57.31-127.1-127.1c0-70.69 57.31-127.1 127.1-127.1s127.1 57.3 127.1 127.1C383.1 326.7 326.7 383.1 256 383.1z"/></svg>
+
+  </span>
+
+</span>
+        </button>
       </div>
     
-
-    </div>
-  </section>
-
-  
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-  <section id="projects" class="home-section wg-portfolio  "  >
-   <div class="home-section-bg " ></div>
-    <div class="container">
-
-    
-      <div class="row  ">
-      
-        
-          <div class="col-12 col-lg-4 section-heading">
-            <h1>Projects</h1>
-            
-          </div>
-        
-      
-    
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <div class="col-12 ">
-  
-    
-  
-    
-  
-    
-  
-    
-    
-    
-    
-    
-    
-  
-    <span class="d-none default-project-filter">*</span>
-    
-    
-    <div class="project-toolbar">
-      <div class="project-filters">
-        <div class="btn-toolbar">
-          <div class="btn-group flex-wrap">
-            
-            
-            
-            
-            
-            
-            <a href="#" data-filter="*"
-              class="btn btn-primary btn-lg active">All</a>
-            
-            
-            
-            
-            <a href="#" data-filter=".js-id-University"
-              class="btn btn-primary btn-lg">University</a>
-            
-            
-            
-            
-            <a href="#" data-filter=".js-id-Personal"
-              class="btn btn-primary btn-lg">Personal</a>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    
-  
-    <div
-      class="isotope projects-container row js-layout-row ">
-  
-      
-      
-      
-      
-  
-      
-  
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-University">
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/bigdataanalytics/" >Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines</a>
-    </div>
-
-    
-    <a href="/project/bigdataanalytics/"  class="summary-link">
-      <div class="article-style">
-        Implementation of all the milestones of the Big Data Analytics course
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/lucacorbucci/BigDataAnalytics" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
   </div>
-  <div class="ml-3">
-    
-    
-    
-    
-    
-    <a href="/project/bigdataanalytics/" >
-      <img src="/project/bigdataanalytics/featured_hu92c63dff3aec98447da70293828e8b62_159894_e0f24bef39a56f25b3f8bacb746bd6d6.jpg" data-src="/project/bigdataanalytics/featured_hu92c63dff3aec98447da70293828e8b62_159894_150x0_resize_q75_lanczos.jpg" alt="Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines" class="lazyload">
-    </a>
-    
-  </div>
-</div>
-
-</div>
-
-      
   
-      
   
-      
-      
-      
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-University">
-  
-
-
-
-
-
-
-  
-  
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="https://www.kaggle.com/c/nlp-getting-started" target="_blank" rel="noopener">Real or Not? NLP with Disaster Tweets</a>
-    </div>
-
-    
-    <a href="https://www.kaggle.com/c/nlp-getting-started" target="_blank" rel="noopener" class="summary-link">
-      <div class="article-style">
-        A kaggle competition to get started with NLP.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    
-    
-    <a href="https://www.kaggle.com/c/nlp-getting-started" target="_blank" rel="noopener">
-      <img src="/project/nlp/featured_hub4373301b35ae36cb884e4f4c7864adf_121317_d43f58506396035452281e87290519ba.png" data-src="/project/nlp/featured_hub4373301b35ae36cb884e4f4c7864adf_121317_150x0_resize_lanczos_3.png" alt="Real or Not? NLP with Disaster Tweets" class="lazyload">
-    </a>
-    
-  </div>
-</div>
-
-</div>
-
-      
-  
-      
-  
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-Personal">
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/ethereumchat/" >PointerDapp - Ethereum Chat</a>
-    </div>
-
-    
-    <a href="/project/ethereumchat/"  class="summary-link">
-      <div class="article-style">
-        PointerDapp is a simple application that we developed to show you one possible use case of the Blockchain.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/PointerPodcast/PointerDapp" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    
-    
-    <a href="/project/ethereumchat/" >
-      <img src="/project/ethereumchat/featured_hub180a2dd93596021d8fe58ba9f0e5c3c_119899_e5fe2e3e7302ed0322812bc02275dd8d.png" data-src="/project/ethereumchat/featured_hub180a2dd93596021d8fe58ba9f0e5c3c_119899_150x0_resize_lanczos_3.png" alt="PointerDapp - Ethereum Chat" class="lazyload">
-    </a>
-    
-  </div>
-</div>
-
-</div>
-
-      
-  
-      
-  
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-University">
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/clouddatabase/" >Advanced Practical Course Cloud DataBases</a>
-    </div>
-
-    
-    <a href="/project/clouddatabase/"  class="summary-link">
-      <div class="article-style">
-        Implementation of all the milestones of the Advanced Practical Course &ldquo;Cloud Data Bases&rdquo; @TUM Department of Informatics
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/lucacorbucci/Practical-Course-Cloud-DataBases" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    
-    
-    <a href="/project/clouddatabase/" >
-      <img src="/project/clouddatabase/featured_hu71cf910e59db949028e11ac2ed36fb67_64297_2cd61924d160a33f43e10913ff6d953c.jpg" data-src="/project/clouddatabase/featured_hu71cf910e59db949028e11ac2ed36fb67_64297_150x0_resize_q75_lanczos.jpg" alt="Advanced Practical Course Cloud DataBases" class="lazyload">
-    </a>
-    
-  </div>
-</div>
-
-</div>
-
-      
-  
-      
-  
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-Personal">
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/espweatherstation/" >ESPWeatherStation</a>
-    </div>
-
-    
-    <a href="/project/espweatherstation/"  class="summary-link">
-      <div class="article-style">
-        Homemade temperature sensor
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    
-    
-    <a href="/project/espweatherstation/" >
-      <img src="/project/espweatherstation/featured_hu46afaf94672c5e1ed03b2d93dff09f29_60866_da1795c55cef8e85d48b5e95c0e7c18f.jpg" data-src="/project/espweatherstation/featured_hu46afaf94672c5e1ed03b2d93dff09f29_60866_150x0_resize_q75_lanczos.jpg" alt="ESPWeatherStation" class="lazyload">
-    </a>
-    
-  </div>
-</div>
-
-</div>
-
-      
-  
-      
-  
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-University">
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/autonomicfarm/" >Autonomic Farm Pattern</a>
-    </div>
-
-    
-    <a href="/project/autonomicfarm/"  class="summary-link">
-      <div class="article-style">
-        Parallel and Distributed Systems: Paradigms and Models Final Project (2018-19). Master Degree in Computer Science @ University of Pisa
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/lucacorbucci/Autonomic-Farm-Pattern" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">
-    Slides
-  </a>
-  
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    
-    
-    <a href="/project/autonomicfarm/" >
-      <img src="/project/autonomicfarm/featured_huf113e5d9d50cfd5e3ff92520f407f98d_41603_deedcf2212c30cf93a8faa1171b6178c.jpeg" data-src="/project/autonomicfarm/featured_huf113e5d9d50cfd5e3ff92520f407f98d_41603_150x0_resize_q75_lanczos.jpeg" alt="Autonomic Farm Pattern" class="lazyload">
-    </a>
-    
-  </div>
-</div>
-
-</div>
-
-      
-  
-      
-  
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-University">
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/sistemioperativi/" >ChatterBox</a>
-    </div>
-
-    
-    <a href="/project/sistemioperativi/"  class="summary-link">
-      <div class="article-style">
-        Operating System Project (2016-17). Bachelor Degree in Computer Science @ University of Pisa.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/lucacorbucci/ChatterBox" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    
-    
-    <a href="/project/sistemioperativi/" >
-      <img src="/project/sistemioperativi/featured_huf4c25905ff589ad6f3f9079f8f988770_33147_4138c5bb42df0e0edae0161ab4aa890e.png" data-src="/project/sistemioperativi/featured_huf4c25905ff589ad6f3f9079f8f988770_33147_150x0_resize_lanczos_3.png" alt="ChatterBox" class="lazyload">
-    </a>
-    
-  </div>
-</div>
-
-</div>
-
-      
-  
-      
-  
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-University">
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/blockchain/" >SmartAuctions</a>
-    </div>
-
-    
-    <a href="/project/blockchain/"  class="summary-link">
-      <div class="article-style">
-        Final Term - Peer to Peer Systems and Blockchains (2018-19). Master Degree in Computer Science @ University of Pisa .
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/lucacorbucci/SmartAuctions" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/georgecushen" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    
-    
-    <a href="/project/blockchain/" >
-      <img src="/project/blockchain/featured_hu28f4aa13222fcd4cc378851c562020d5_62254_c6cf0f37d53ee3da85b24ded30c305df.png" data-src="/project/blockchain/featured_hu28f4aa13222fcd4cc378851c562020d5_62254_150x0_resize_lanczos_3.png" alt="SmartAuctions" class="lazyload">
-    </a>
-    
-  </div>
-</div>
-
-</div>
-
-      
-  
-      
-    </div>
-  </div>
-
-
-
-    
-      </div>
-    
-
-    </div>
-  </section>
-
-  
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-  <section id="talks" class="home-section wg-portfolio  "  >
-   <div class="home-section-bg " ></div>
-    <div class="container">
-
-    
-      <div class="row  ">
-      
-        
-          <div class="col-12 col-lg-4 section-heading">
-            <h1>Recent &amp; Upcoming Talks</h1>
-            
-          </div>
-        
-      
-    
-
-      
-
-
-
-
-
-
-
-
-
-
-  <div class="col-12 ">
-  
-    
-  
-    
-  
-    
-  
-    
-    
-    
-    
-    
-    
-  
-    <span class="d-none default-project-filter">*</span>
-  </div>
-  <div class="col-4">
-  
-    
-    
-    <h6> Filter by year: </h6>
-    <div class="project-filters">
-      <div>
-        
-        
-        
-        
-        
-        
-  
-        <a href="#" data-filter="*"
-          class="btn-lg active">All</a>
-        <br>
-        
-        
-        
-        
-  
-        <a href="#" data-filter=".js-id-Future"
-          class="btn-lg">Future</a>
-        <br>
-        
-        
-        
-        
-  
-        <a href="#" data-filter=".js-id-2020"
-          class="btn-lg">2020</a>
-        <br>
-        
-        
-        
-        
-  
-        <a href="#" data-filter=".js-id-2021"
-          class="btn-lg">2021</a>
-        <br>
-        
-      </div>
-    </div>
-  
-    
-    
-  
-  </div>
-  <div class="col-8">
-    <div
-      class="isotope projects-container row js-layout-row ">
-  
-      
-      
-      
-      
-  
-      
-  
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-2021">
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/talk/natural-language-processing-nel-campo-healthcare-storia-della-mia-tesi/" >Natural Language Processing nel campo Healthcare: storia della mia tesi</a>
-    </div>
-
-    
-    <a href="/talk/natural-language-processing-nel-campo-healthcare-storia-della-mia-tesi/"  class="summary-link">
-      <div class="article-style">
-        Una breve presentazione della mia tesi tenuta durante l&rsquo;evento Incontra Informatica
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Apr 15, 2021 11:00 AM
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Remote</span>
-        
-      </div>
-      
-
-      
-      <div>
-        
-
-  <span >
-      Luca Corbucci</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/talk/natural-language-processing-nel-campo-healthcare-storia-della-mia-tesi/Talk_tesi.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-</div>
-
-      
-  
-      
-  
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-2020">
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/talk/blockchain-smart-contract-from-scratch/" >Blockchain: Smart Contract From Scratch</a>
-    </div>
-
-    
-    <a href="/talk/blockchain-smart-contract-from-scratch/"  class="summary-link">
-      <div class="article-style">
-        A short introduction about Blockchain and how to develop a Smart Contract
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          May 2, 2020 6:00 PM
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Remote</span>
-        
-      </div>
-      
-
-      
-      <div>
-        
-
-  <span >
-      Luca Corbucci</span>, <span >
-      Alessandro Berti</span>, <span >
-      Eugenio Paluello</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/PointerPodcast/PointerDapp" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/talk/blockchain-smart-contract-from-scratch/GdgDevParty.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?t=17975&amp;v=LyAzDwg5b-Q&amp;feature=youtu.be" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    
-    
-    <a href="/talk/blockchain-smart-contract-from-scratch/" >
-      <img src="/talk/blockchain-smart-contract-from-scratch/featured_hu645964f793f71416563afd9e9f232c8b_1394458_64e60a9fae3cdf2989bd64a74179ad69.png" data-src="/talk/blockchain-smart-contract-from-scratch/featured_hu645964f793f71416563afd9e9f232c8b_1394458_150x0_resize_lanczos_3.png" alt="Blockchain: Smart Contract From Scratch" class="lazyload">
-    </a>
-    
-  </div>
-</div>
-
-</div>
-
-      
-  
-      
-  
-      
-      
-      
-  
-      
-      
-
-
-<div class="col-12 isotope-item js-id-2020">
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/talk/how-to-start-a-podcast/" >How to start a Podcast</a>
-    </div>
-
-    
-    <a href="/talk/how-to-start-a-podcast/"  class="summary-link">
-      <div class="article-style">
-        A short introduction about how to start a podcast.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Apr 4, 2020 6:00 PM
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Remote</span>
-        
-      </div>
-      
-
-      
-      <div>
-        
-
-  <span >
-      Luca Corbucci</span>, <span >
-      Alessandro Berti</span>, <span >
-      Eugenio Paluello</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/talk/how-to-start-a-podcast/TalkPodcast.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=M8DJQplc-3E" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/lucacorbucci" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    
-    
-    <a href="/talk/how-to-start-a-podcast/" >
-      <img src="/talk/how-to-start-a-podcast/featured_hud0b701b75dfa71de113d9c4f96eb6ecd_262641_448581e51929a634e24bf6582365837d.png" data-src="/talk/how-to-start-a-podcast/featured_hud0b701b75dfa71de113d9c4f96eb6ecd_262641_150x0_resize_lanczos_3.png" alt="How to start a Podcast" class="lazyload">
-    </a>
-    
-  </div>
-</div>
-
-</div>
-
-      
-  
-      
-    </div>
-  </div>
-
-
-
-
-
-
-    
-      </div>
-    
-
-    </div>
-  </section>
-
-
-
-  </div>
-
-  <div class="page-footer">
-    
-    
-    <div class="container">
-      <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
-  
-
-  <p class="powered-by">
-    
-  </p>
-
-  
-  
-
-
-
-
-
-
-  <p class="powered-by">
-    
-    
-    
-    Published with
-    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
-    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
-    open source</a> website builder that empowers creators.
-    
-  </p>
 </footer>
 
     </div>
-    
-  </div>
-
-  
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-      
-
-    
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-
-      
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      
-
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
-
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.4/mermaid.min.js" integrity="sha512-as1BF4+iHZ3BVO6LLDQ7zrbvTXM+c/1iZ1qII/c3c4L8Rn5tHLpFUtpaEtBNS92f+xGsCzsD7b62XP3XYap6oA==" crossorigin="anonymous" title="mermaid"></script>
-      
-
-      
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
-        
-      
-
-    
-
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
-    
-
-    
-    
-
-    
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-        <div class="search-hit-content">
-          <div class="search-hit-name">
-            <a href="{{relpermalink}}">{{title}}</a>
-            <div class="article-metadata search-hit-type">{{type}}</div>
-            <p class="search-hit-description">{{snippet}}</p>
-          </div>
-        </div>
-      </div>
-    </script>
-    
-
-    
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-    
-
-    
-    
-    
-
-    
-    
-    
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
-    
-
-    
-    
-
-    
-    
-
-    
-    
-      
-      
-      
-      
-      
-      
-      
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-      
-      
-    
-    
-    <script src="/en/js/wowchemy.min.840ff069a6d25db681d120b4f843b863.js"></script>
-
-    
-
-
-
-
-
-
-</body>
+  </body>
 </html>

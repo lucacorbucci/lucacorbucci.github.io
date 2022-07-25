@@ -1,92 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://lucacorbucci.me/tag/2021/</loc>
-    <lastmod>2021-04-15T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/</loc>
-    <lastmod>2021-04-15T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/talk/natural-language-processing-nel-campo-healthcare-storia-della-mia-tesi/</loc>
-    <lastmod>2021-04-15T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/event/</loc>
-    <lastmod>2021-04-15T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/tags/</loc>
-    <lastmod>2021-04-15T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/post/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://lucacorbucci.me/categories/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/tag/holiday/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/category/holiday/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/post/summer_2019/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/project/bigdataanalytics/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/project/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/tag/university/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/project/nlp/</loc>
-    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/tag/2020/</loc>
-    <lastmod>2020-05-02T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/talk/blockchain-smart-contract-from-scratch/</loc>
-    <lastmod>2020-05-02T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/talk/how-to-start-a-podcast/</loc>
-    <lastmod>2020-04-04T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/tag/personal/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/project/ethereumchat/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/project/clouddatabase/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/project/espweatherstation/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/project/autonomicfarm/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/project/sistemioperativi/</loc>
-    <lastmod>2016-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/project/blockchain/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucacorbucci.me/slides/example/</loc>
-  </url><url>
-    <loc>https://lucacorbucci.me/publication_types/</loc>
-  </url><url>
-    <loc>https://lucacorbucci.me/publication/</loc>
-  </url><url>
-    <loc>https://lucacorbucci.me/slides/</loc>
-  </url>
+  
+    
+      <url>
+            <loc>/</loc>
+            <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/talks/</loc>
+            <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/about-me/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/research/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/posts/</loc>
+          </url>
+    
+  
 </urlset>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luca Corbucci</title>
+    <link>https://lucacorbucci.me/</link>
+      <atom:link href="https://lucacorbucci.me/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luca Corbucci</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lucacorbucci.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Luca Corbucci</title>
+      <link>https://lucacorbucci.me/</link>
+    </image>
+    
+    <item>
+      <title>Natural Language Processing nel campo Healthcare: storia della mia tesi</title>
+      <link>https://lucacorbucci.me/talk/natural-language-processing-nel-campo-healthcare-storia-della-mia-tesi/</link>
+      <pubDate>Thu, 15 Apr 2021 11:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/talk/natural-language-processing-nel-campo-healthcare-storia-della-mia-tesi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer Holidays 2019</title>
+      <link>https://lucacorbucci.me/post/summer_2019/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/post/summer_2019/</guid>
+      <description>&lt;p&gt;I started my bachelor degree in 2014 and I moved to Pisa to attend the lectures at the University, here I met some Sicilian people and for 5 years they invited me to go in Sicily to see the beautiful sea and to visit all the beautiful places of this island.
+I never listened to them until the last winter when I organized my first trip to Sicily and I went to Giarratana, a little village near Ragusa.&lt;/p&gt;
+&lt;p&gt;I loved the places that I visited and I also loved the sea even if it was Febraury and it was too cold to go on the beach to swim and have fun.&lt;/p&gt;
+&lt;p&gt;After this first trip I decided to organize another trip, this time i changed my destination and I decided to go to “San Vito Lo Capo” a beautiful and famous touristic location in the west of the Sicily.&lt;/p&gt;
+&lt;p&gt;I arrived in Sicily on the 14th of August and I stayed there for one week, during these days I visited a lot of places and I ate a lot of delicious typical food.&lt;/p&gt;
+&lt;p&gt;My trip started with a visit to some beaches near San Vito, in Italy they are called &amp;ldquo;Calette&amp;rdquo;, we rented a scooter and we went to these beaches. During the entire day the sea was rough but we appreciated the landscape and the contrast between the sea that and the mountains.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_4982.jpeg?token=AAQYXWU6ODBPH2KWOPNKYR25VHX6I&#34; alt=&#34;IMG_4982.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I shot the previous photo during the first day and I think that it is one of the best photo that I have ever taken with my iPhone. As you can see there are a lot of rocks on the beach and it was really funny to walk over it, from this picture you can also see the contrast between sea and mountains.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_5410.jpeg?token=AAQYXWX2KX3GBCMSSPEAO6S5VJDIC&#34; alt=&#34;IMG_5410.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_4929.jpeg?token=AAQYXWQ27K2UODXAFMPEFX25VJDFQ&#34; alt=&#34;IMG_4929.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The excursion to the &amp;ldquo;Riserva dello zingaro&amp;rdquo; was the one that i enjoyed most, we took a boat and we visited some caves.
+It was amazing, I was really excited especially when we saw some dolphins in the sea, it was an unforgettable experience.&lt;/p&gt;
+&lt;p&gt;We have done another excursion by boat to &amp;ldquo;Favignana&amp;rdquo; and &amp;ldquo;Levanzo&amp;rdquo;, i liked it especially the &amp;ldquo;Levanzo&amp;rdquo; island that is smaller than &amp;ldquo;Favignana&amp;rdquo; but is really nice to visit.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_6078.jpeg?token=AAQYXWUDRDGX3EHFNJSO6VC5VJDUE&#34; alt=&#34;IMG_6078.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As I said during the days that i passed in Sicily I ate a lot of typical foods. I loved the &amp;ldquo;Arancino&amp;rdquo; and I ate one of it almost every day. The Arancino is a typical sicilian food that is prepared with rice and sauce with meat then it is fried.
+&lt;img src=&#34;https://raw.githubusercontent.com/lucacorbucci/lucacorbucci.github.io/master/Images/IMG_4511.jpeg?token=AAQYXWTUGXM6TD4PGZNLZ7S5VJDDO&#34; alt=&#34;IMG_4511.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I also ate some foods that i usually don&amp;rsquo;t eat like raw fish or also cous cous.&lt;/p&gt;
+&lt;p&gt;After one week I left Sicily but I promised that I&amp;rsquo;ll go back as soon as I can to visit not only the sea but also the mountainous part and some other cities (and also to eat some others Arancini and Cannoli :D).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines</title>
+      <link>https://lucacorbucci.me/project/bigdataanalytics/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/project/bigdataanalytics/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Tech Stack: Python, Matplotlib, Pandas, Keras, Streamlit, Docker&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lucacorbucci/BigDataAnalytics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The repository&lt;/a&gt; contains all the milestones implemented during the course &amp;ldquo;Big Data Analytics&amp;rdquo; @ the University of Pisa. The team that worked on this project is the &amp;ldquo;MaLuCS&amp;rdquo; team which was composed by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Luca Corbucci&lt;/li&gt;
+&lt;li&gt;Cinzia Lestini&lt;/li&gt;
+&lt;li&gt;Marco Giuseppe Marino&lt;/li&gt;
+&lt;li&gt;Simone Rossi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal of course was to develop a big data analytics project. The projects were based on real-world datasets covering several thematic areas.&lt;/p&gt;
+&lt;p&gt;The project is divided into 3 main milestones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Understanding and Project Formulation&lt;/li&gt;
+&lt;li&gt;Model(s) construction and evaluation&lt;/li&gt;
+&lt;li&gt;Model interpretation/explanation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At the end of each of these milestones, we presented our results and we wrote a report. At the end of the course, we developed a final notebook to show the results reached during all the midterm.&lt;/p&gt;
+&lt;h2 id=&#34;folder-structure&#34;&gt;Folder structure&lt;/h2&gt;
+&lt;p&gt;There is a folder for each Midterm, in each of these folders you can find a Jupyter Notebook, a dataset and the slides of the presentation.
+There is a folder called &amp;ldquo;Final Term&amp;rdquo; that contains the final notebook and the code of the Streamlit web app.
+There is a folder called &amp;ldquo;Report&amp;rdquo; which contains the report we wrote for the exam.&lt;/p&gt;
+&lt;h2 id=&#34;final-term&#34;&gt;Final Term&lt;/h2&gt;
+&lt;h3 id=&#34;notebook&#34;&gt;Notebook&lt;/h3&gt;
+&lt;p&gt;Inside the Jupyter notebook you can find all the most important task of our project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Cleaning: this part was developed during the first Midterm.&lt;/li&gt;
+&lt;li&gt;Prediction: this part was developed during the second Midterm.&lt;/li&gt;
+&lt;li&gt;Explanation: this part was developed during the third Midterm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;streamlit&#34;&gt;Streamlit&lt;/h3&gt;
+&lt;p&gt;We developed a simple web app using Streamlit to visualize our work.&lt;/p&gt;
+&lt;p&gt;In the web app, you can upload the sample dataset and then you will see the same pieces of information that you can compute in the notebook.&lt;/p&gt;
+&lt;p&gt;In the bottom of the page, you can select an instance of the dataset to see the explanation.&lt;/p&gt;
+&lt;p&gt;You can visualize the web app using this link: http://62.171.188.29:8501/.&lt;/p&gt;
+&lt;p&gt;Alternatively, you can host on your own computer, we used Docker to simplify the execution of this service:
+Run Streamlit using Docker&lt;/p&gt;
+&lt;p&gt;Run docker-compose up in your terminal to run src/main.py in Streamlit, then open localhost:8501/ in your browser to visualize our project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real or Not? NLP with Disaster Tweets</title>
+      <link>https://lucacorbucci.me/project/nlp/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/project/nlp/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Tech Stack: Python, Matplotlib, Pandas, Keras&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We joined the competition &amp;ldquo;Real or Not? NLP with Disaster Tweets&amp;rdquo; during an exam at the University.
+We developed and evaluated several machine learning models that had the aim to classify tweet as real disaster or unreal disaster.&lt;/p&gt;
+&lt;p&gt;In particular we trained the following models:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Naive Bayes&lt;/li&gt;
+&lt;li&gt;LSTM&lt;/li&gt;
+&lt;li&gt;Bidirectional LSTM&lt;/li&gt;
+&lt;li&gt;Bert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We used keras to develop the models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blockchain: Smart Contract From Scratch</title>
+      <link>https://lucacorbucci.me/talk/blockchain-smart-contract-from-scratch/</link>
+      <pubDate>Sat, 02 May 2020 18:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/talk/blockchain-smart-contract-from-scratch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to start a Podcast</title>
+      <link>https://lucacorbucci.me/talk/how-to-start-a-podcast/</link>
+      <pubDate>Sat, 04 Apr 2020 18:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/talk/how-to-start-a-podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PointerDapp - Ethereum Chat</title>
+      <link>https://lucacorbucci.me/project/ethereumchat/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/project/ethereumchat/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Tech Stack: React, Solidity&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;PointerDapp is a simple application that we developed to show you one possible use case of the Blockchain.&lt;/p&gt;
+&lt;p&gt;We developed a distributed chat, you can create (or delete) groups and you can send and receive messages.&lt;/p&gt;
+&lt;p&gt;We presented our work during the GDG DevParty Together 2020, you can see &lt;a href=&#34;https://youtu.be/LyAzDwg5b-Q?t=17975&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; the video of our talk (in italian). Slides are available &lt;a href=&#34;https://github.com/PointerPodcast/PointerDapp/blob/master/Slides/GdgDevParty.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;!-- ALL-CONTRIBUTORS-LIST:START --&gt;
+&lt;!-- prettier-ignore-start --&gt;
+&lt;!-- markdownlint-disable --&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https:a//github.com/Brotherhood94&#34;&gt;&lt;img src=&#34;https://avatars1.githubusercontent.com/u/24278256?s=460&amp;u=4d5cd3b6125436e39d1a543c7b1d632960b70f3e&amp;v=4&#34; width=&#34;100px;&#34; alt=&#34;Alessandro Berti&#34;/&gt;&lt;br /&gt;&lt;sub&gt;&lt;b&gt;Alessandro Berti&lt;/b&gt;&lt;/sub&gt;&lt;/a&gt;&lt;br /&gt;&lt;a  title=&#34;Developer&#34;&gt;👨‍💻&lt;/a&gt;&lt;/td&gt;
+    &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/lucacorbucci&#34;&gt;&lt;img src=&#34;https://avatars0.githubusercontent.com/u/2198490?s=460&amp;u=e2a9f6ee366490f639d9e9e96fb62e5eee39c69e&amp;v=4&#34; width=&#34;100px;&#34; alt=&#34;Luca Corbucci&#34;/&gt;&lt;br /&gt;&lt;sub&gt;&lt;b&gt;Luca Corbucci&lt;/b&gt;&lt;/sub&gt;&lt;/a&gt;&lt;br /&gt;&lt;a title=&#34;Developer&#34;&gt;👨‍💻&lt;/a&gt;&lt;/td&gt;
+    &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/eugypalu&#34;&gt;&lt;img src=&#34;https://avatars2.githubusercontent.com/u/10235567?s=460&amp;u=3b0ab03757c580842375f861d93efc136bd38741&amp;v=4&#34; width=&#34;100px;&#34; alt=&#34;Eugenio Paluello&#34;/&gt;&lt;br /&gt;&lt;sub&gt;&lt;b&gt;Eugenio Paluello&lt;/b&gt;&lt;/sub&gt;&lt;/a&gt;&lt;br /&gt;&lt;a  title=&#34;Developer&#34;&gt;👨‍💻&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;!-- markdownlint-enable --&gt;
+&lt;!-- prettier-ignore-end --&gt;
+&lt;!-- ALL-CONTRIBUTORS-LIST:END --&gt;
+&lt;h1 id=&#34;code-&#34;&gt;Code 👩‍💻&lt;/h1&gt;
+&lt;p&gt;In this repo you can find two main folders:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;smart_contract: this folder contains the solidity code of the two contracts we wrote.&lt;/li&gt;
+&lt;li&gt;frontend: this folder contains the frontend code written using ReactJS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;how-to-try-pointerdapp-&#34;&gt;How to try PointerDapp 🚀&lt;/h1&gt;
+&lt;p&gt;You can try our application using the following link: &lt;a href=&#34;http://pointerdapp.it:3000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://pointerdapp.it:3000&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To try our application you need to install Metamask in your browser, you can use this extension in Chrome, Firefox and Brave &lt;a href=&#34;https://metamask.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://metamask.io&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our smart contracts are deployed on the Rinkeby test net, to use all the features of the distributed application you need an address and you have to charge your account using this &lt;a href=&#34;https://faucet.rinkeby.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;contributing&#34;&gt;Contributing&lt;/h1&gt;
+&lt;p&gt;This is a project that we developed for the &lt;a href=&#34;https://www.gdgdevparty.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDG DevParty&lt;/a&gt;, Feel free to open issues/pull requests to help us improve this project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Practical Course Cloud DataBases</title>
+      <link>https://lucacorbucci.me/project/clouddatabase/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/project/clouddatabase/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Tech Stack: Java, Git, Junit&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lucacorbucci/Practical-Course-Cloud-DataBases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This repository&lt;/a&gt; contains all the milestones implemented during the course &amp;ldquo;Advanced Practical Course: Cloud Data Bases&amp;rdquo; @ Technische Universität München.&lt;/p&gt;
+&lt;p&gt;The goal of this practical course was to develop a Distributed Database using Java.&lt;/p&gt;
+&lt;h2 id=&#34;milestone-1-&#34;&gt;Milestone 1 ✅&lt;/h2&gt;
+&lt;p&gt;The objective of this assignment is to implement a simple client program that is able to establish a TCP connection to a given server and exchange text messages with it.
+The client should provide a command line-based interface that captures the user’s input and controls the interaction with the server. Besides connection establishment and tear down, the user must be able to pass messages to the server. These messages are in turn echoed back to the client where they are displayed to the user. A sequence of interactions is shown below.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;EchoClient&amp;gt; connect clouddatabases.i13.in.tum.de 5153
+EchoClient&amp;gt; Connection to MSRG Echo server established: /ddd.aaa.dd.xx / 5153 EchoClient&amp;gt; send hello world
+EchoClient&amp;gt; hello world
+EchoClient&amp;gt; disconnect
+EchoClient&amp;gt; Connection terminated: ddd.aaa.dd.xx  / 5153
+EchoClient&amp;gt; send hello again
+EchoClient&amp;gt; Error! Not connected!
+EchoClient&amp;gt; quit
+EchoClient&amp;gt; Application exit!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The assignment serves to refresh or establish basic knowledge of TCP-based network programming using Java stream sockets, mostly from the client’s perspective. This embodies concepts such as client/server architecture, network streams, and message serialization.&lt;/p&gt;
+&lt;p&gt;During the first milestone I implemented the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TestClient, TestSendWrongMessage, TestSendEmptyMessage, TestSomething&lt;/li&gt;
+&lt;li&gt;Signal Handling&lt;/li&gt;
+&lt;li&gt;Connection/Disconnection of the client&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;milestone-2-&#34;&gt;Milestone 2 ✅&lt;/h2&gt;
+&lt;p&gt;The objective of this assignment is to implement a simple storage server that persists data to disk (e.g., a file). In addition, a small fraction of the data, i.e., a configurable number of key- value pairs can be cached in the servers’ main memory. The storage server should provide the typical key-value query interface. To achieve this objective, the echo client from Assignment 1 should be extended to be able to communicate with the storage server and query it. These tasks require the development of an applicable communication protocol and a suitable message format.
+In this assignment, a single storage server will serve requests from multiple clients, whereas in the next assignment, we’ll experiment with deploying a number of storage servers based on the artifacts developed in this and the previous assignment.&lt;/p&gt;
+&lt;p&gt;During the second milestone I implemented the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cache with Tests&lt;/li&gt;
+&lt;li&gt;Storage on Disk and Tests&lt;/li&gt;
+&lt;li&gt;Restore of data in case of shutdown&lt;/li&gt;
+&lt;li&gt;Some other Tests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;milestone-3-&#34;&gt;Milestone 3 ✅&lt;/h2&gt;
+&lt;p&gt;The objective of this assignment is to extend the storage server architecture from Milestone 2 into a elastic, scalable storage service (cf. the figure below). Data records (i.e., key-value pairs) are distributed over a number of storage servers by exploiting the capabilities of consistent hashing. A single storage server is only responsible for a subset of the whole data space (i.e., a range of successive hash values.) The hash function is used to determine the location of particular tuples (i.e., hash values of the associated keys).&lt;/p&gt;
+&lt;p&gt;During the third milestone I implemented the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Metadata Module with Tests&lt;/li&gt;
+&lt;li&gt;ECS Module with Tests&lt;/li&gt;
+&lt;li&gt;Thread Pinger&lt;/li&gt;
+&lt;li&gt;IntraCommunicationThread&lt;/li&gt;
+&lt;li&gt;Some tests&lt;/li&gt;
+&lt;li&gt;Part of the Enron Test&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;milestone-4-&#34;&gt;Milestone 4 ✅&lt;/h2&gt;
+&lt;p&gt;The objective of this assignment is to extend the storage service from Milestone 3 by means of replication. Data records (i.e., key-value pairs) are still distributed over a bunch of storage servers via consistent hashing. However, the storage servers are no longer just responsible for their own subset of the data, but also serve as replicas for data items of other servers. In this sense, a storage server assumes different roles for different tuples. A storage server may be a&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Coordinator node, if it is directly responsible for the tuple, following the concept of consistent hashing. This means it has a position in the ring, such that it is the closest successor server in the ring topology according to the tuple position (cf. Milestone 3).&lt;/li&gt;
+&lt;li&gt;Or a replica node, if the tuple is coordinated by another storage node and the data is just replicated on this node. It is either replica_1 if it is first successor of the coordinator or replica_2 if it is the second successor.
+Each data item should be replicated exactly on the two storage servers that are following the coordinator node in the ring topology. Replication is invoked and managed by the coordinator node. This means that at least 3 active and responsive storage servers are needed. As long as just 1 or 2 nodes are in the system, no replication is used.
+The focus of this milestone is to implement a replication strategy that guarantees eventual consistency. It should also provide a reconciliation mechanism for topology changes. So far (as completed in Milestone 3) the key ranges are rebalanced. In this milestone als the replication is rebalanced when the topology changes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During the forth milestone I implemented the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Replica of the K,V pairs with Tests&lt;/li&gt;
+&lt;li&gt;Eventual Consistency&lt;/li&gt;
+&lt;li&gt;PingThread&lt;/li&gt;
+&lt;li&gt;Some Tests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;milestone-5-&#34;&gt;Milestone 5 ✅&lt;/h2&gt;
+&lt;p&gt;The goal of this assignment is to extend the distributed database that we wrote in the previous milestone adding new features. I added the possibility to protect a key,value pair using a password. All the previously developed API (PUT, GET, DELETE) now supports the password protection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ESPWeatherStation</title>
+      <link>https://lucacorbucci.me/project/espweatherstation/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/project/espweatherstation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Tech Stack: Python, MQTT, MongoDB, Flask, Docker, Flutter&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is a personal project I&amp;rsquo;ve developed using a NODEMCU (ESP88266) and a temperature sensor DHT22.
+The sensor detects the temperature and sends the data to a RaspberryPi using MQTT.
+The RaspberryPi stores the data in a local database and then sends the data to a VPS.
+On the VPS the temperature data is stored in a database and I developed a Flask API to access them.
+I&amp;rsquo;m currently using Flutter to visualize the data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autonomic Farm Pattern</title>
+      <link>https://lucacorbucci.me/project/autonomicfarm/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/project/autonomicfarm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Tech Stack: C++, FastFlow&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is the final project of the course &amp;ldquo;Parallel and Distributed Systems: Paradigms and Models&amp;rdquo; at the University of Pisa.&lt;/p&gt;
+&lt;h2 id=&#34;autonomic-farm-pattern&#34;&gt;Autonomic-Farm-Pattern&lt;/h2&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;The goal is to provide a farm pattern ensuring (best effort) a given service time leveraging on dynamic variation of
+the parallelism degree. The farm is instantiated and run by providing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A collection of input tasks to be computed (of type Tin)&lt;/li&gt;
+&lt;li&gt;A function&amp;lt;Tout(Tin)&amp;gt; computing the single task&lt;/li&gt;
+&lt;li&gt;An expected service time TSgoal&lt;/li&gt;
+&lt;li&gt;An initial parallelism degree nw&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During farm execution, autonomic farm management should increase or decrease the parallelism degree in such a way its service time is as close as possible to the expected service time TSgoal.
+The pattern should be tested providing a collection of tasks such that the tasks in the initial, central and final part all require a different average time to be computed (e.g. 4L in the first part, L in the second part and 8L in the third part) and the task collection execution time is considerably longer than the time needed to reconfigure the farm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://lucacorbucci.me/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://lucacorbucci.me/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://lucacorbucci.me/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://lucacorbucci.me/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChatterBox</title>
+      <link>https://lucacorbucci.me/project/sistemioperativi/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/project/sistemioperativi/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Tech Stack: C&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Operating Systems and Laboratory&lt;/strong&gt; Project @ Unipi.
+Academic year 2016/2017.&lt;/p&gt;
+&lt;p&gt;The text of the project is available here: &lt;a href=&#34;http://didawiki.di.unipi.it/doku.php/informatica/sol/laboratorio17/progetto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://didawiki.di.unipi.it/doku.php/informatica/sol/laboratorio17/progetto&lt;/a&gt; and in the &amp;ldquo;Testo Progetto&amp;rdquo; folder in the repo.
+A final report is available in the &amp;ldquo;Report&amp;rdquo; folder.&lt;/p&gt;
+&lt;h3 id=&#34;how-to-try-chatterbox&#34;&gt;How to try Chatterbox&lt;/h3&gt;
+&lt;p&gt;To test the project:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/lucacorbucci/ChatterBox.git
+cd Chatterbox
+make
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then you can launch the server using the command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;./chatty -f ./DATA/chatty.conf1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You can run the client using the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;./client -l /tmp/chatty_socket -c luca
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;There are some flags useful to configure and use the client.&lt;/p&gt;
+&lt;h3 id=&#34;test&#34;&gt;Test&lt;/h3&gt;
+&lt;p&gt;In the folder Test you can find some tests that can be used to try the Project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SmartAuctions</title>
+      <link>https://lucacorbucci.me/project/blockchain/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/project/blockchain/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Tech Stack: Solidity, React&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lucacorbucci/SmartAuctions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This repo&lt;/a&gt; contains the final term and the final project developed for the &amp;ldquo;Peer to Peer Systems and Blockchains&amp;rdquo; course.
+I developed this in June 2019.&lt;/p&gt;
+&lt;p&gt;A demo of the final project is available &lt;a href=&#34;http://116.203.183.105:5000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;, you need to install metamask to use the site and to do the calls to the contracts.&lt;/p&gt;
+&lt;h3 id=&#34;contracts&#34;&gt;Contracts&lt;/h3&gt;
+&lt;p&gt;In the &amp;ldquo;Contracts&amp;rdquo; folder there is the final term of the course, i put here the contracts written in Solidity.
+There are two contracts, one for the english Auction and one for the Vickrey Auction.
+Into the folder &amp;ldquo;Contracts&amp;rdquo; there is another readme where i explain the methods of the contracts and how to deploy it using Truffle.&lt;/p&gt;
+&lt;h3 id=&#34;frontend&#34;&gt;Frontend.&lt;/h3&gt;
+&lt;p&gt;In the &amp;ldquo;Frontend&amp;rdquo; folder there are a lot of files, i put here the auction contracts and also another contract that i wrote in solidity to store in the blockchain the address of the deployes contracts.
+I also changed the original Vickrey and English auction contracts based on the calls that i need to do from the frontend.
+There are also all the components that i wrote to build the frontend of the distributed application.
+For the frontend i used React and Bulma as CSS Framework.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lucacorbucci.me/slides/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lucacorbucci.me/slides/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

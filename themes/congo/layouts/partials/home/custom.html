@@ -1,0 +1,42 @@
+<div class="flex items-center justify-center h-full">
+    <div class="flex flex-col sm:flex-row w-full items-center text-center sm:items-stretch sm:text-left">
+        <div class="w-56 h-56 rounded-md sm:w-52 sm:h-auto sm:mr-6 md:mr-8 lg:mr-12">
+            {{ with .Site.Author.image }}
+            {{ $authorImage := resources.Get . }}
+            {{ if $authorImage }}
+            <img class="mb-2 rounded-full" width="200" height="200" src="{{ $authorImage.RelPermalink }}" />
+            {{ end }}
+            {{ end }}
+        </div>
+        <article class="flex flex-col justify-start">
+            <header class="mb-3">
+                <h1 class="text-4xl font-extrabold">
+                    {{ .Site.Author.name | default .Site.Title }}
+                </h1>
+                <div>
+                    {{ with .Site.Author.headline }}
+                    <p class="mb-2 text-lg md:text-xl text-neutral-400 dark:text-neutral-500">
+                        {{ . | markdownify | emojify }}
+                    </p>
+                    {{ end }}
+                    <div class="mt-0 text-2xl sm:text-xl md:mt-1 md:text-2xl flex justify-center sm:justify-start">
+                        <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">{{ partialCached
+                            "author-links.html" . }}</div>
+                    </div>
+                </div>
+            </header>
+            <div class="prose prose-sm md:prose dark:prose-invert md:dark:prose-invert">
+                {{ with .Site.Author.bio }}
+                <p>
+                    {{ . | markdownify | emojify }}
+                </p>
+                {{ end }}
+            </div>
+        </article>
+
+    </div>
+
+
+
+    <section class="prose dark:prose-invert"></section>
+    </article>
