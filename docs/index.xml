@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hello World!</title>
+      <link>/posts/stories/1/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/stories/1/</guid>
+      <description>It&amp;rsquo;s the last day of 2021, one of my goals for the next year is to keep a sort of diary that I can write regularly.</description>
+    </item>
+    
+    <item>
       <title>Hi there I&#39;m Luca 👋</title>
       <link>/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

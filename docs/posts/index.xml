@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks &amp; Podcasts &amp; Interviews &amp; etc etc on Luca Corbucci</title>
+    <title>Posts on Luca Corbucci</title>
     <link>/posts/</link>
-    <description>Recent content in Talks &amp; Podcasts &amp; Interviews &amp; etc etc on Luca Corbucci</description>
+    <description>Recent content in Posts on Luca Corbucci</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>/posts/stories/1/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/stories/1/</guid>
+      <description>It&amp;rsquo;s the last day of 2021, one of my goals for the next year is to keep a sort of diary that I can write regularly.</description>
+    </item>
+    
   </channel>
 </rss>
