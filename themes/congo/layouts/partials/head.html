@@ -1,5 +1,4 @@
 <head>
-  <script defer data-domain="lucacorbucci.me" src="https://plausible.lucacorbucci.me/js/plausible.js"></script>
 
   <meta charset="utf-8" />
   {{ with .Site.Language.Params.htmlCode | default .Site.LanguageCode }}
@@ -119,4 +118,5 @@
   {{ if templates.Exists "partials/extend-head.html" }}
   {{ partialCached "extend-head.html" .Site }}
   {{ end }}
+  <script defer data-domain="lucacorbucci.me" src="https://plausible.lucacorbucci.me/js/plausible.js"></script>
 </head>
