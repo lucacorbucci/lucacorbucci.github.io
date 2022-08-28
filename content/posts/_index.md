@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
-I've heard you like reading 👓
+A page with a list of my writings, blogposts and similar.
 {{< /lead >}}
 
-In this section, I've tried to collect most of my written contributions across the web; for now no posts are hosted in this website but expect them to start appearing... soon :tm:
+Some of the posts I wrote in the past are on [Medium](https://lucacorbucci.medium.com/)

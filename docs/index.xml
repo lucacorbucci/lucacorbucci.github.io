@@ -6,7 +6,88 @@
     <description>Recent content on Luca Corbucci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A list of blog post I&#39;ve read this week - Issue #8</title>
+      <link>/posts/news/08/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/news/08/</guid>
+      <description>This is the list of blog post I&amp;rsquo;ve read this week:</description>
+    </item>
+    
+    <item>
+      <title>My talk at Pycon IT 🇮🇹 2022 </title>
+      <link>/posts/stories/3/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/stories/3/</guid>
+      <description>On Saturday, June 4th I was a speaker at Pycon Italy 2022 in Florence.</description>
+    </item>
+    
+    <item>
+      <title>A list of blog post I&#39;ve read this week - Issue #7</title>
+      <link>/posts/news/07/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/news/07/</guid>
+      <description>This is the list of blog post I&amp;rsquo;ve read this week:</description>
+    </item>
+    
+    <item>
+      <title>A list of blog post I&#39;ve read this week - Issue #6</title>
+      <link>/posts/news/06/</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/news/06/</guid>
+      <description>This is the list of blog post I&amp;rsquo;ve read this week:</description>
+    </item>
+    
+    <item>
+      <title>A list of blog post I&#39;ve read this week - Issue #5</title>
+      <link>/posts/news/05/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/news/05/</guid>
+      <description>This is the list of blog post I&amp;rsquo;ve read this week:</description>
+    </item>
+    
+    <item>
+      <title>A list of blog post I&#39;ve read this week - Issue #3</title>
+      <link>/posts/news/03/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/news/03/</guid>
+      <description>This is the list of blog post I&amp;rsquo;ve read this week:</description>
+    </item>
+    
+    <item>
+      <title>A list of blog post I&#39;ve read this week - Issue #2</title>
+      <link>/posts/news/02/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/news/02/</guid>
+      <description>This is the list of blog post I&amp;rsquo;ve read this week:</description>
+    </item>
+    
+    <item>
+      <title>A list of blog post I&#39;ve read this week - Issue 1</title>
+      <link>/posts/news/01/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/news/01/</guid>
+      <description>This is the list of blog post I&amp;rsquo;ve read this week:</description>
+    </item>
+    
+    <item>
+      <title>How to install hdf5 on M1 Mac</title>
+      <link>/posts/stories/2/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/stories/2/</guid>
+      <description>I&amp;rsquo;ve spent part of this afternoon trying to install Tensorflow on my M1 Mac.</description>
+    </item>
+    
     <item>
       <title>Hello World!</title>
       <link>/posts/stories/1/</link>

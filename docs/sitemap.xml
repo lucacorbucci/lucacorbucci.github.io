@@ -4,8 +4,22 @@
   
     
       <url>
+            <loc>/posts/news/08/</loc>
+            <lastmod>2022-08-17T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>/</loc>
-            <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+            <lastmod>2022-08-17T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/</loc>
+            <lastmod>2022-08-17T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -18,14 +32,63 @@
   
     
       <url>
-            <loc>/posts/stories/1/</loc>
-            <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+            <loc>/posts/stories/3/</loc>
+            <lastmod>2022-06-11T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/posts/</loc>
+            <loc>/posts/news/07/</loc>
+            <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/news/06/</loc>
+            <lastmod>2022-02-13T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/news/05/</loc>
+            <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/news/03/</loc>
+            <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/news/02/</loc>
+            <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/news/01/</loc>
+            <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/stories/2/</loc>
+            <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/stories/1/</loc>
             <lastmod>2021-12-31T00:00:00+00:00</lastmod>
           </url>
     

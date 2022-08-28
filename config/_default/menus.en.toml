@@ -13,7 +13,7 @@
 [[main]]
 name = "Posts"
 weight = 10
-url = "https://blog.lucacorbucci.me/"
+pageRef = "posts"
 
 
 [[main]]
