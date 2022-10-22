@@ -6,7 +6,16 @@
     <description>Recent content in Talks and Podcasts on Luca Corbucci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two years of SuperHeroValley: lessons learnt and future plans</title>
+      <link>/talks/codemotion_22/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/codemotion_22/</guid>
+      <description>🗣 Talk (in 🇮🇹) @ Codemotion Milan 2022 - &lt;a href=&#34;https://speakerdeck.com/lcorbucci/two-years-of-superherovalley-lessons-learnt-and-future-plans&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; I gave a lightning talk about what we have learnt in the first two years of Superhero Valley and what we plan to do in the future.</description>
+    </item>
+    
     <item>
       <title>Hello SuperHeroes</title>
       <link>/talks/superheroes_pisa_2022/</link>
@@ -31,7 +40,7 @@
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/talks/pycon_it_2022/</guid>
-      <description>🗣 Talk (in 🇮🇹) @ Pycon 2021 - &lt;a href=&#34;https://speakerdeck.com/lcorbucci/data-visualization-con-streamlit&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; I gave a short introduction to Streamlit and how to use it to create data apps.</description>
+      <description>🗣 Talk (in 🇮🇹) @ Pycon 2022 - &lt;a href=&#34;https://speakerdeck.com/lcorbucci/data-visualization-con-streamlit&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; I gave a short introduction to Streamlit and how to use it to create data apps.</description>
     </item>
     
     <item>
