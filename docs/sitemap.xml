@@ -5,14 +5,14 @@
     
       <url>
             <loc>/</loc>
-            <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+            <lastmod>2023-05-22T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
             <loc>/talks/</loc>
-            <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+            <lastmod>2023-05-22T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -90,6 +90,12 @@
       <url>
             <loc>/posts/stories/1/</loc>
             <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/picks/</loc>
           </url>
     
   
