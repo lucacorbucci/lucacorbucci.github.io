@@ -1,51 +1,89 @@
 ---
 title: "Hi there I'm Luca 👋"
+
 layout: "simple"
 ---
 
 {{< lead >}}
+
 This is a short introduction of myself. If you want a more detailed description [you can read my CV](/CV.pdf) or visit my [Linkedin account](https://www.linkedin.com/in/lucacorbucci/)
+
 {{< /lead >}}
 
-I’m a PhD candidate in Computer Science at the University of Pisa 🇮🇹. My main research interests are Federated Learning and Privacy-Preserving Machine Learning.
+Hi 👋, I am Luca, a PhD candidate in Computer Science at the University of Pisa 🇮🇹 under the supervision of Prof. [Anna Monreale](https://scholar.google.com/citations?hl=en&user=bA-rXeUAAAAJ). My main research interests are Federated Learning and Privacy-Preserving Machine Learning. However, I am attracted to new technologies. Therefore, I am also open to work on different and innovative topics.
 
 🧑‍🎓 I received a B.Sc. degree in Computer Science in 2018 and a M.Sc. degree in Computer Science in 2021 with a thesis about “Semantic enrichment of XAI explanations for healthcare”. In 2019 I spent one semester at the Computer Science Department of the Technische Universität München 🇩🇪 as an exchange student thanks to the Erasmus program.
 
-I worked as Flutter Developer at Tocket from March 2020 to January 2021. During that period I developed the Tocket's application that was published on the iOS App Store and the Google Play Store.
+📱 I worked as a Flutter Developer at Tocket from March 2020 to January 2021. During that period I developed the Tocket's application that was published on the iOS App Store and the Google Play Store.
 
-<!--
+🔍 I am currently spending a period as a visiting PhD student in the Telefonica R&D department in Barcelona 🇪🇸 under the supervision of [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ&hl=en&oi=ao).
+
+🎙 I have always been attracted to communities. Between 2013 and 2015, I worked as an editor for Biteyourapple.net, writing more than 1000 posts, recording videos and participating in the Bitecast podcast. I am the co-founder of [PointerPodcast](https://pointerpodcast.it/), a podcast about technology and innovation. We have published more than 150 episodes since its creation in 2019. In most of them, we interview software engineers and researchers from both academia and industry. Lately, I've founded two communities. The first one is Superhero Valley, a community that tries to fill the gap between university and industry. It does this by providing awareness of the opportunities offered by big tech companies to students. The second is Pisa.dev a local community that organizes meetups for developers and computer scientists in Pisa 🇮🇹.
+
+🍦 In my free time I enjoy acting as a critique about books and TV shows. I also try to prepare myself for marathons sooner or later. If you are interested in all these things, [I created a page to share all these details](/picks/).
+
 ## {{< icon "graduation-cap" >}}&nbsp;Education
 
-- (2021 -- Present) **Ph.D. in Computer Science** -- University of Pisa, Italy 🇮🇹
-  - Main research interests: Federated Learning and privacy preserving Machine Learning
-- (Oct 2019 -- Mar 2020) **International Exchange** -- Technical University of Munich, Germany 🇩🇪
-- (2018 -- 2021) **Master Degree in Computer Science** -- University of Pisa, Italy 🇮🇹
-  - Thesis: _Semantic Enrichment of XAI Explanation for Healthcare_ (supervisor: Prof. Anna Monreale, Dott. Cecilia Panigutti)
-- (2014 -- 2018) **BSc in Computer Science** -- University of Pisa, Italy 🇮🇹
-  - Thesis: _Construction and Analysis of the Ethereum Transaction Graphs_ (supervisor: Prof. Laura Ricci, Dott. Damiano Di Francesco Maesa)
+- (2021 -- Present) Ph.D. in Computer Science -- University of Pisa, Italy 🇮🇹
+
+  - Main research interests: Privacy-Preserving Machine Learning and Federated Learning
+
+- (Oct 2019 -- Mar 2020) International Exchange -- Technical University of Munich, Germany 🇩🇪
+
+- (2018 -- 2021) Master Degree in Computer Science -- University of Pisa, Italy 🇮🇹
+
+  - Thesis: Semantic Enrichment of XAI Explanation for Healthcare (supervisor: Prof. Anna Monreale, Dott. Cecilia Panigutti)
+
+- (2014 -- 2018) BSc in Computer Science -- University of Pisa, Italy 🇮🇹
+
+  - Thesis: Construction and Analysis of the Ethereum Transaction Graphs (supervisor: Prof. Laura Ricci, Dott. Damiano Di Francesco Maesa)
 
 ## {{< icon "briefcase" >}} Experience
 
-- (Jan 2022 -- Apr 2022) **Teaching Assistant** -- University of Pisa, Italy
+- (Mar 2023 -- Present) Visiting PhD Student -- Telefonica R&D, Barcelona, Spain
+
+  - Working on Privacy Preserving Machine Learning, Fairness and Federated Learning
+
+- (Jan 2022 -- Apr 2022) Teaching Assistant -- University of Pisa, Italy
+
   - Tutoring activities for the "Laboratorio 1" course. Main topics: Javascript and Typescript.
-- (Jun 2021 -- Oct 2021) **Research Assistant** -- University of Pisa, Italy
-  - Won a research scholarship to continue the development of my master’s thesis project.
+
+- (Jun 2021 -- Oct 2021) Research Assistant -- University of Pisa, Italy
+
+  - Won a research scholarship to continue my master’s thesis project.
+
   - Worked on the extension of XAI methods for healthcare
-- (Jan 2021 -- Feb 2021) **Teaching assistant** -- University of Pisa, Italy
+
+- (Jan 2021 -- Feb 2021) Teaching assistant -- University of Pisa, Italy
+
   - Tutoring activities for the "Programming and Algorithmics" course.
-- (Sep 2020 -- Dec 2020) **Teaching assistant** -- University of Pisa, Italy
+
+- (Sep 2020 -- Dec 2020) Teaching assistant -- University of Pisa, Italy
+
   - Freshmen tutor - Computer Science students.
-- (Mar 2020 -- Jun 2021) **Flutter Developer - Tocket** -- Remote
+
+- (Mar 2020 -- Jun 2021) Flutter Developer - Tocket -- Remote
+
   - Developed the MVP Tocket's application using Flutter.
-  - Developed an internal dashboard to add new events -->
+
+  - Developed an internal dashboard to add new events
 
 ## Podcast and Communities
 
 I enjoy organising meetups and communities. I am currently involved in the following projects:
 
-- **PointerPodcast**
-  - I’m the co-founder of “[PointerPodcast](https://pointerpodcast.it/)” a podcast about technology and innovation. We published more than 100 episodes since its creation in 2019. In most of them, we interview software engineers and researchers from both academia and industry.
-- **SuperHeroesValley**
-  - I'm the co-founder of “[SuperHeroesValley](https://www.superheroesvalley.fun/)”, a community that organizes online meetups for ambitious CS students to build a bridge between university and big tech companies. We founded the community in October 2020 and we organized more than 30 meetups since then.
-- **Pisa.dev**
-  - I'm the co-founder and organizer of [Pisa.dev](https://www.pisa.dev) a community based in Pisa that organizes meetup for developers and computer scientist. We organized our first event in July 2022.
+- PointerPodcast
+
+  - I’m the co-founder of “[PointerPodcast](https://pointerpodcast.it/)” a podcast about technology and innovation. We have published more than 150 episodes since its creation in 2019. In most of them, we interview software engineers and researchers from both academia and industry.
+
+- SuperHeroesValley
+
+  - I'm the co-founder of “[SuperHeroesValley](https://www.superheroesvalley.fun/)”, a community that organizes online meetups for ambitious CS students to build a bridge between universities and big tech companies. We founded the community in October 2020 and organized more than 50 meetups since then.
+
+- Pisa.dev
+
+  - I'm the co-founder and organizer of [Pisa.dev](https://www.pisa.dev) a community based in Pisa that organizes meetups for developers and computer scientists.
+
+## Volunteering
+
+- GDG Pisa Devfest 2023: I was one of the helpers of GDG Pisa Devfest 2023. I was one of the stage managers and helped record interviews with attendees and speakers. The video of the interviews is [here](https://www.youtube.com/watch?v=0abyLm5x7yg).
