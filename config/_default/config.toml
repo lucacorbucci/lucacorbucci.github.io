@@ -1,10 +1,10 @@
 # -- Site Configuration --
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
-
-# baseURL = "https://your_domain.com/"
-defaultContentLanguage = "en"
 theme = "congo"
+# baseURL = "https://lucacorbucci.me/"
+defaultContentLanguage = "en"
+
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 0

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks and Podcasts on Luca Corbucci</title>
+    <title>Talks and Podcasts on Congo</title>
     <link>/talks/</link>
-    <description>Recent content in Talks and Podcasts on Luca Corbucci</description>
+    <description>Recent content in Talks and Podcasts on Congo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
@@ -22,7 +22,15 @@
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/talks/devfest_pisa_23/</guid>
-      <description>🗣 Panel (in 🇬🇧) @ DevFest Pisa 2023 - &lt;a href=&#34;https://www.youtube.com/watch?v=R7U1pQRlOuc&#34;&gt;YouTube&lt;/a&gt; &lt;br /&gt; Alessandro and I moderated a panel about Community Building at DevFest Pisa 2023. The recording of the panel is available &lt;a href=&#34;https://www.youtube.com/watch?v=R7U1pQRlOuc&#34;&gt;here&lt;/a&gt;.</description>
+      <description>🗣 Panel (in 🇬🇧) @ DevFest Pisa 2023 - &lt;a
+  href=&#34;https://www.youtube.com/watch?v=R7U1pQRlOuc&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;YouTube&lt;/a&gt; &lt;br /&gt; Alessandro and I moderated a panel about Community Building at DevFest Pisa 2023. The recording of the panel is available &lt;a
+  href=&#34;https://www.youtube.com/watch?v=R7U1pQRlOuc&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;here&lt;/a&gt;.</description>
     </item>
     
     <item>
@@ -31,7 +39,11 @@
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/talks/codemotion_22/</guid>
-      <description>🗣 Talk (in 🇮🇹) @ Codemotion Milan 2022 - &lt;a href=&#34;https://speakerdeck.com/lcorbucci/two-years-of-superherovalley-lessons-learnt-and-future-plans&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; I gave a lightning talk about what we have learnt in the first two years of Superhero Valley and what we plan to do in the future.</description>
+      <description>🗣 Talk (in 🇮🇹) @ Codemotion Milan 2022 - &lt;a
+  href=&#34;https://speakerdeck.com/lcorbucci/two-years-of-superherovalley-lessons-learnt-and-future-plans&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;slides&lt;/a&gt; &lt;br /&gt; I gave a lightning talk about what we have learnt in the first two years of Superhero Valley and what we plan to do in the future.</description>
     </item>
     
     <item>
@@ -58,7 +70,11 @@
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/talks/pycon_it_2022/</guid>
-      <description>🗣 Talk (in 🇮🇹) @ Pycon 2022 - &lt;a href=&#34;https://speakerdeck.com/lcorbucci/data-visualization-con-streamlit&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; I gave a short introduction to Streamlit and how to use it to create data apps.</description>
+      <description>🗣 Talk (in 🇮🇹) @ Pycon 2022 - &lt;a
+  href=&#34;https://speakerdeck.com/lcorbucci/data-visualization-con-streamlit&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;slides&lt;/a&gt; &lt;br /&gt; I gave a short introduction to Streamlit and how to use it to create data apps.</description>
     </item>
     
     <item>
@@ -67,7 +83,11 @@
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/talks/incontra_informatica_2022/</guid>
-      <description>🗣 Talk (in 🇮🇹) @ Incontra informatica 2022 - &lt;a href=&#34;https://speakerdeck.com/lcorbucci/orientamento-2022&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; An introduction to my field of research for high school students</description>
+      <description>🗣 Talk (in 🇮🇹) @ Incontra informatica 2022 - &lt;a
+  href=&#34;https://speakerdeck.com/lcorbucci/orientamento-2022&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;slides&lt;/a&gt; &lt;br /&gt; An introduction to my field of research for high school students</description>
     </item>
     
     <item>
@@ -85,7 +105,11 @@
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/talks/incotra_informatica_2021/</guid>
-      <description>🗣 Talk (in 🇮🇹) @ Incontra informatica 2021 - &lt;a href=&#34;https://speakerdeck.com/lcorbucci/talk-tesi&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; An introduction to my field of research for high school students</description>
+      <description>🗣 Talk (in 🇮🇹) @ Incontra informatica 2021 - &lt;a
+  href=&#34;https://speakerdeck.com/lcorbucci/talk-tesi&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;slides&lt;/a&gt; &lt;br /&gt; An introduction to my field of research for high school students</description>
     </item>
     
     <item>
@@ -94,7 +118,11 @@
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/talks/dev_party_2020/</guid>
-      <description>🗣 Talk (in 🇮🇹) @ DevParty Together 2020 - &lt;a href=&#34;https://speakerdeck.com/lcorbucci/gdgdevparty&#34;&gt;slides&lt;/a&gt;. &lt;br /&gt; In this talk, we show how to develop an Ethereum Smart Contract using Solidity and how to interact with it through a web application written in React.</description>
+      <description>🗣 Talk (in 🇮🇹) @ DevParty Together 2020 - &lt;a
+  href=&#34;https://speakerdeck.com/lcorbucci/gdgdevparty&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;slides&lt;/a&gt;. &lt;br /&gt; In this talk, we show how to develop an Ethereum Smart Contract using Solidity and how to interact with it through a web application written in React.</description>
     </item>
     
     <item>
@@ -103,7 +131,20 @@
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/talks/how_to_start_a_podcast/</guid>
-      <description>🗣 Talk (in 🇮🇹) @ Dev Talks ItalianCoders - &lt;a href=&#34;https://speakerdeck.com/lcorbucci/talkpodcast&#34;&gt;slides&lt;/a&gt;. &lt;br /&gt; In this talk, we present how we started a podcast. We decided to held this talk because we wanted to share with other people the problems we faced when we started to produce a podcast. During the talk, we propose some solutions to those problems. This talk is held in italian.</description>
+      <description>🗣 Talk (in 🇮🇹) @ Dev Talks ItalianCoders - &lt;a
+  href=&#34;https://speakerdeck.com/lcorbucci/talkpodcast&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;slides&lt;/a&gt;. &lt;br /&gt; In this talk, we present how we started a podcast. We decided to held this talk because we wanted to share with other people the problems we faced when we started to produce a podcast. During the talk, we propose some solutions to those problems. This talk is held in italian.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talks/xai_23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/xai_23/</guid>
+      <description></description>
     </item>
     
   </channel>

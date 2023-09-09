@@ -40,30 +40,30 @@ Hi 👋, I am Luca, a PhD candidate in Computer Science at the University of Pis
 
 ## {{< icon "briefcase" >}} Experience
 
-- (Mar 2023 -- Present) Visiting PhD Student -- Telefonica R&D, Barcelona, Spain
+- (Mar 2023 -- Present) Visiting PhD Student -- Telefonica R&D, Barcelona, Spain 🇪🇸
 
   - Working on Privacy Preserving Machine Learning, Fairness and Federated Learning
 
-- (Jan 2022 -- Apr 2022) Teaching Assistant -- University of Pisa, Italy
+- (Jan 2022 -- Apr 2022) Teaching Assistant -- University of Pisa, Italy 🇮🇹
 
   - Tutoring activities for the "Laboratorio 1" course. Main topics: Javascript and Typescript.
 
-- (Jun 2021 -- Oct 2021) Research Assistant -- University of Pisa, Italy
+- (Jun 2021 -- Oct 2021) Research Assistant -- University of Pisa, Italy 🇮🇹
 
   - Won a research scholarship to continue my master’s thesis project.
 
   - Worked on the extension of XAI methods for healthcare
 
-- (Jan 2021 -- Feb 2021) Teaching assistant -- University of Pisa, Italy
+- (Jan 2021 -- Feb 2021) Teaching assistant -- University of Pisa, Italy 🇮🇹
 
   - Tutoring activities for the "Programming and Algorithmics" course.
 
-- (Sep 2020 -- Dec 2020) Teaching assistant -- University of Pisa, Italy
+- (Sep 2020 -- Dec 2020) Teaching assistant -- University of Pisa, Italy 🇮🇹
 
   - Freshmen tutor - Computer Science students.
 
-- (Mar 2020 -- Jun 2021) Flutter Developer - Tocket -- Remote
-
+- (Mar 2020 -- Jun 2021) Flutter Developer - Tocket -- Remote 🇮🇹
+ 
   - Developed the MVP Tocket's application using Flutter.
 
   - Developed an internal dashboard to add new events
