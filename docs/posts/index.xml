@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The illustrated Membership Inference Attack</title>
+      <link>/posts/stories/the-illustrated-membership-inference-attack/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/stories/the-illustrated-membership-inference-attack/</guid>
+      <description>Introduction # The original MIA Attack # Lira # Likelihood # ALOA # </description>
+    </item>
+    
     <item>
       <title>A list of blog post I&#39;ve read this week - Issue #8</title>
       <link>/posts/news/08/</link>
