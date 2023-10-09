@@ -8,7 +8,7 @@ layout: "simple"
 
 #### 2023
 
-- **Luca Corbucci**, Anna Monreale, Cecilia Panigutti, Michela Natilli, Simona Smiraglio, Dino Pedreschi - Semantic enrichment of explanations of AI models for healthcare - Presented at Discovery Science'23 - Porto, Portugal 🇵🇹
+- **Luca Corbucci**, Anna Monreale, Cecilia Panigutti, Michela Natilli, Simona Smiraglio, Dino Pedreschi - [Semantic enrichment of explanations of AI models for healthcare](https://link.springer.com/chapter/10.1007/978-3-031-45275-8_15) - Presented at Discovery Science'23 - Porto, Portugal 🇵🇹
 
 - **Luca Corbucci**, Riccardo Guidotti, Anna Monreale (2023) - Explaining Black-Boxes in Federated Learning - Presented at Xai World Conference 2023 - Lisbon, Portugal 🇵🇹
 
