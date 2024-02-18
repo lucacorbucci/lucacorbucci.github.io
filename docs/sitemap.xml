@@ -106,6 +106,12 @@
     
   
     
+      <url>
+            <loc>/uses/</loc>
+          </url>
+    
+  
+    
   
     
       <url>
@@ -119,6 +125,12 @@
           </url>
     
   
+    
+  
+    
+      <url>
+            <loc>/now/</loc>
+          </url>
     
   
 </urlset>

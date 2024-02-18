@@ -7,15 +7,13 @@ layout: "simple"
 
 I have an account on Goodreads, If you want to see the full list of books I've read and the ones I'd like to read in the future [you can check it out](https://www.goodreads.com/user/show/127638893-luca-corbucci).
 
-## Books I'm currently reading
-
-- Le intermittenze della morte 🇮🇹
-- Tutti nella mia famiglia hanno ucciso qualcuno 🇮🇹
 
 ## Recently finished
 
 - Il rosmarino non capisce l'inverno 🇮🇹
 - The making of Prince of Persia 🇬🇧
+- Le intermittenze della morte 🇮🇹
+- Tutti nella mia famiglia hanno ucciso qualcuno 🇮🇹
 
 ## Recommended books
 

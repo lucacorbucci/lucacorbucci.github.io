@@ -93,11 +93,25 @@
       <description></description>
     </item>
     <item>
+      <title></title>
+      <link>/uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/uses/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Hi there I&#39;m Luca 👋</title>
       <link>/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/about-me/</guid>
       <description>This is a short introduction of myself.</description>
+    </item>
+    <item>
+      <title>What I&#39;m doing now</title>
+      <link>/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/now/</guid>
+      <description>Updated February 18th, 2024, from my house in Barcelona.</description>
     </item>
   </channel>
 </rss>
