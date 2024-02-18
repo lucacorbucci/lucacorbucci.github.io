@@ -5,6 +5,7 @@
     <link>/research/</link>
     <description>Recent content in Research on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
