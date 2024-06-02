@@ -40,7 +40,7 @@ Hi 👋, I am Luca, a PhD candidate in Computer Science at the University of Pis
 
 ## {{< icon "briefcase" >}} Experience
 
-- (Mar 2023 -- Present) Visiting PhD Student -- Telefonica R&D, Barcelona, Spain 🇪🇸
+- (Mar 2023 -- Mar 2024) Visiting PhD Student and Research Intern -- Telefonica R&D, Barcelona, Spain 🇪🇸
 
   - Working on Privacy Preserving Machine Learning, Fairness and Federated Learning
 
@@ -64,7 +64,7 @@ Hi 👋, I am Luca, a PhD candidate in Computer Science at the University of Pis
 
 - (Mar 2020 -- Jun 2021) Flutter Developer - Tocket -- Remote 🇮🇹
  
-  - Developed the MVP Tocket's application using Flutter.
+  - Developed the MVP Tocket's application using Flutter. The app was published on the iOS App Store and the Google Play Store and downloaded more than 20.000 times.
 
   - Developed an internal dashboard to add new events
 
@@ -85,5 +85,7 @@ I enjoy organising meetups and communities. I am currently involved in the follo
   - I'm the co-founder and organizer of [Pisa.dev](https://www.pisa.dev) a community based in Pisa that organizes meetups for developers and computer scientists.
 
 ## Volunteering
+
+- GDG Pisa Devfest 2024: I was one of the helpers of GDG Pisa Devfest 2024.
 
 - GDG Pisa Devfest 2023: I was one of the helpers of GDG Pisa Devfest 2023. I was one of the stage managers and helped record interviews with attendees and speakers. The video of the interviews is [here](https://www.youtube.com/watch?v=0abyLm5x7yg).
