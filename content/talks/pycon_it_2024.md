@@ -2,7 +2,7 @@
 title: "Is Your Model Private?"
 date: 2024-05-24
 externalUrl: ""
-summary: "🗣 Talk @ Pycon 2024 - [slides](https://speakerdeck.com/lcorbucci/pycon-2024-is-your-model-private) <br /> In this talk I discussed about privacy risk of ML models and Differential Privacy."
+summary: "🗣 Talk @ Pycon 2024 - Florence - [slides](https://speakerdeck.com/lcorbucci/pycon-2024-is-your-model-private) <br /> In this talk I discussed about privacy risk of ML models and Differential Privacy."
 showReadingTime: false
 _build:
   render: "false"

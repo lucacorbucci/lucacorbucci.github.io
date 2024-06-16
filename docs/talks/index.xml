@@ -20,7 +20,14 @@
       <link>/talks/pycon_it_2024/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>/talks/pycon_it_2024/</guid>
-      <description>🗣 Talk @ Pycon 2024 - &#xA;&lt;a href=&#34;https://speakerdeck.com/lcorbucci/pycon-2024-is-your-model-private&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; In this talk I discussed about privacy risk of ML models and Differential Privacy.</description>
+      <description>🗣 Talk @ Pycon 2024 - Florence - &#xA;&lt;a href=&#34;https://speakerdeck.com/lcorbucci/pycon-2024-is-your-model-private&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; In this talk I discussed about privacy risk of ML models and Differential Privacy.</description>
+    </item>
+    <item>
+      <title>Please, stop logging your experiments in a .txt file </title>
+      <link>/talks/pisa_dev_2024/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/talks/pisa_dev_2024/</guid>
+      <description>🗣 Pisa.dev April 2024 Meetup - Pisa - &#xA;&lt;a href=&#34;https://speakerdeck.com/lcorbucci/please-stop-logging-your-experiments-in-a-txt-file&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; In this talk I explained how I use WANDB to track the results of my ML experiments.</description>
     </item>
     <item>
       <title>Twitter Space DevFest Pisa </title>
