@@ -10,6 +10,8 @@ This is a short introduction of myself. If you want a more detailed description 
 
 {{< /lead >}}
 
+![Me giving a talk at Pycon IT 2024](/img/luca.webp)
+
 Hi 👋, I am Luca, a PhD candidate in Computer Science at the University of Pisa 🇮🇹 under the supervision of Prof. [Anna Monreale](https://scholar.google.com/citations?hl=en&user=bA-rXeUAAAAJ). My main research interests are Federated Learning and Privacy-Preserving Machine Learning. However, I am attracted to new technologies. Therefore, I am also open to working on different and innovative topics.
 
 🧑‍🎓 I received a B.Sc. degree in Computer Science in 2018 and a M.Sc. degree in Computer Science in 2021 with a thesis about “Semantic enrichment of XAI explanations for healthcare”. In 2019, I spent one semester at the Computer Science Department of the Technische Universität München 🇩🇪 as an exchange student thanks to the Erasmus program.
