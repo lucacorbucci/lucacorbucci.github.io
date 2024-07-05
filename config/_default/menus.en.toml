@@ -31,6 +31,11 @@ name = "About me"
 pageRef = "about-me"
 weight = 40
 
+[[main]]
+name = "Uses"
+pageRef = "uses"
+weight = 50
+
 
 
 # -- Footer Menu --

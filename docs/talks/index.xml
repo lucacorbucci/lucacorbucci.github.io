@@ -4,7 +4,7 @@
     <title>Talks and Podcasts on Home</title>
     <link>/talks/</link>
     <description>Recent content in Talks and Podcasts on Home</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,7 @@
       <link>/talks/pycon_it_2024/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>/talks/pycon_it_2024/</guid>
-      <description>🗣 Talk @ Pycon 2024 - Florence - &#xA;&lt;a href=&#34;https://speakerdeck.com/lcorbucci/pycon-2024-is-your-model-private&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; In this talk I discussed about privacy risk of ML models and Differential Privacy.</description>
+      <description>🗣 Talk @ Pycon 2024 - Florence - &#xA;&lt;a href=&#34;https://speakerdeck.com/lcorbucci/pycon-2024-is-your-model-private&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;slides&lt;/a&gt; - &#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=bzyM1avxIvk&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;video&lt;/a&gt;&lt;br /&gt; In this talk I discussed about privacy risk of ML models and Differential Privacy.</description>
     </item>
     <item>
       <title>Please, stop logging your experiments in a .txt file </title>

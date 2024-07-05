@@ -6,6 +6,10 @@ layout: "simple"
 
 ### ✍️ Publications
 
+#### 2024
+
+- **Luca Corbucci**, Anna Monreale, Roberto Pellungrini - [Enhancing Privacy and Utility in Federated Learning: A Hybrid P2P and Server-Based Approach with Differential Privacy Protection](). Presented at the 21st International Conference on Security and Cryptography (SECRYPT 2024) - Djion, France 🇫🇷
+
 #### 2023
 
 - **Luca Corbucci**, Anna Monreale, Cecilia Panigutti, Michela Natilli, Simona Smiraglio, Dino Pedreschi - [Semantic enrichment of explanations of AI models for healthcare](https://link.springer.com/chapter/10.1007/978-3-031-45275-8_15) - Presented at Discovery Science'23 - Porto, Portugal 🇵🇹

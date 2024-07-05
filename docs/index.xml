@@ -4,9 +4,9 @@
     <title>Home</title>
     <link>/</link>
     <description>Recent content on Home</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A list of blog post I&#39;ve read this week - Issue #8</title>
@@ -97,7 +97,7 @@
       <link>/uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/uses/</guid>
-      <description>Hardware # MacBook Pro 13&amp;quot; (2020 - M1 Processor - 16GB RAM - Probably the best computer I&amp;rsquo;ve ever had.</description>
+      <description>Desk Setup # I&amp;rsquo;m really happy with the setup I have now.</description>
     </item>
     <item>
       <title>Hi there I&#39;m Luca 👋</title>
@@ -111,7 +111,7 @@
       <link>/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/now/</guid>
-      <description>Updated February 18th, 2024, from my house in Barcelona.</description>
+      <description>Updated June 23rd, 2024, from a train.</description>
     </item>
   </channel>
 </rss>
