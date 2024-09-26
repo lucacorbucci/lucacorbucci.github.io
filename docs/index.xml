@@ -6,8 +6,15 @@
     <description>Recent content on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/posts/stories/4/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/stories/4/</guid>
+      <description>A few days ago in the [Superhero Valley Discord server] one of our users asked if going to tech conferences could be helpful for a student and what could be the conferences to attend.</description>
+    </item>
     <item>
       <title>A list of blog post I&#39;ve read this week - Issue #8</title>
       <link>/posts/news/08/</link>
@@ -87,6 +94,13 @@
     </item>
     <item>
       <title></title>
+      <link>/posts/stories/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/stories/5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/talks/xai_23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/talks/xai_23/</guid>
@@ -97,7 +111,7 @@
       <link>/uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/uses/</guid>
-      <description>Desk Setup # I&amp;rsquo;m really happy with the setup I have now.</description>
+      <description>Desk Setup #I&amp;rsquo;m really happy with the setup I have now.</description>
     </item>
     <item>
       <title>Hi there I&#39;m Luca 👋</title>
