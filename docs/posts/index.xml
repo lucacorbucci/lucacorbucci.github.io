@@ -6,15 +6,8 @@
     <description>Recent content in Posts on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>/posts/stories/4/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/stories/4/</guid>
-      <description>A few days ago in the [Superhero Valley Discord server] one of our users asked if going to tech conferences could be helpful for a student and what could be the conferences to attend.</description>
-    </item>
     <item>
       <title>A list of blog post I&#39;ve read this week - Issue #8</title>
       <link>/posts/news/08/</link>
@@ -84,6 +77,13 @@
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/posts/stories/1/</guid>
       <description>It&amp;rsquo;s the last day of 2021, one of my goals for the next year is to keep a sort of diary that I can write regularly.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/posts/stories/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/stories/4/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>

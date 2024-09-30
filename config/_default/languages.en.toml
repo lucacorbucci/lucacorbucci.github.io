@@ -17,7 +17,7 @@ title = "Home"
   # description = "My awesome website"
 
 
-[params.author]
+[author]
   name = "Luca Corbucci"
   image =  "img/profile_pic1.png"
   headline = "Ph.D. candidate in Computer Science, podcaster and community manager"
