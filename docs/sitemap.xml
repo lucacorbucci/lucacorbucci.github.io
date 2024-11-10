@@ -5,14 +5,14 @@
     
       <url>
             <loc>/</loc>
-            <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+            <lastmod>2024-11-10T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
             <loc>/talks/</loc>
-            <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+            <lastmod>2024-11-10T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -108,6 +108,12 @@
     
       <url>
             <loc>/posts/stories/5/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/posts/stories/6/</loc>
           </url>
     
   
