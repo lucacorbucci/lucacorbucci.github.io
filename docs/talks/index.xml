@@ -6,8 +6,29 @@
     <description>Recent content in Talks and Podcasts on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debug di Modelli ML: Il potere del Logging</title>
+      <link>/talks/firenze_dev_2024/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/talks/firenze_dev_2024/</guid>
+      <description>🗣 Talk in 🇮🇹 @ Firenze.dev - &#xA;&lt;a href=&#34;https://speakerdeck.com/lcorbucci/debug-di-modelli-ml-il-potere-del-logging-firenze-dot-dev&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; In this talk I explained how I use WANDB to track the results of my ML experiments.</description>
+    </item>
+    <item>
+      <title>PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning</title>
+      <link>/talks/flower_monthly_2024/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/talks/flower_monthly_2024/</guid>
+      <description>🗣 Talk @ Flower Monthly December 2024 - &#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=zZKKMOOeSHY&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;video&lt;/a&gt; &lt;br /&gt; In this talk I discussed about our paper &amp;lsquo;PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning&amp;rsquo;</description>
+    </item>
+    <item>
+      <title>AI&#39;S Hidden cost: The environmental impact of Machine Learning</title>
+      <link>/talks/gdg_roma_2024/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/talks/gdg_roma_2024/</guid>
+      <description>🗣 Talk @ GDG Roma - &#xA;&lt;a href=&#34;https://speakerdeck.com/lcorbucci/ais-hidden-cost-the-environmental-impact-of-machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; A talk about the environmental impact of Generative AI and how to reduce it</description>
+    </item>
     <item>
       <title>AI&#39;S Hidden cost: The environmental impact of Machine Learning</title>
       <link>/talks/devfest_pescara_24/</link>
@@ -44,7 +65,7 @@
       <description>🗣 Talk @ Pycon 2024 - Florence - &#xA;&lt;a href=&#34;https://speakerdeck.com/lcorbucci/pycon-2024-is-your-model-private&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;slides&lt;/a&gt; - &#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=bzyM1avxIvk&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;video&lt;/a&gt;&lt;br /&gt; In this talk I discussed about privacy risk of ML models and Differential Privacy.</description>
     </item>
     <item>
-      <title>Please, stop logging your experiments in a .txt file </title>
+      <title>Please, stop logging your experiments in a .txt file</title>
       <link>/talks/pisa_dev_2024/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/talks/pisa_dev_2024/</guid>
