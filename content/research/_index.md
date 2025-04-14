@@ -6,6 +6,12 @@ layout: "simple"
 
 ### ✍️ Publications
 
+#### 2025
+
+- **Luca Corbucci**, Xenia Heilmann, Mattia Cerrato - Benefits of the Federation? Analyzing the Impact of Fair Federated Learning at the Client Level. Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2025 - Athens, Greece 🇬🇷
+
+- Valerio Bonsignori, **Luca Corbucci**, Francesca Naretto, Anna Monreale - Differentially Private FastSHAP for Federated Learning Model Explainability. Accepted at International Joint Conference on Neural Networks (IJCNN) 2025 - Rome, Italy 🇮🇹
+
 #### 2024
 
 - **Luca Corbucci**, Mikko A Heikkila, David Solans Noguero, Anna Monreale, Nicolas Kourtellis - [PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning](https://arxiv.org/abs/2407.15224). Presented at the 27th  (ECAI 2024) - Santiago de Compostela, Spain 🇪🇸
@@ -33,4 +39,6 @@ layout: "simple"
 
 ### 📚 Thesis Co-Supervision
 
+- Elia Bisconti, "Towards Personalized Explainability: The development of a Modular Recommender System to Assess Explanation Suitability for Different Personas", Master Degree in Computer Science, 2025
+- Javier Alejandro Borges Legrottaglie, "A Data-Driven Unsupervised Approach for the Prevention of Forgotten Items"​, Master Degree in Digital Humanities, 2025
 - Francesco Cappellini, “Federated Explainable Artificial Intelligence: A Case Study"​, One-year Master in Big Data Analytics & Social Mining, 2023

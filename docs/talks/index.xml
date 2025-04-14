@@ -6,8 +6,15 @@
     <description>Recent content in Talks and Podcasts on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI’s Hidden Cost: The Environmental Impact of Machine Learning</title>
+      <link>/talks/devfest_pisa_2025/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/talks/devfest_pisa_2025/</guid>
+      <description>🗣 Talk @ DevFest Pisa 2025 - &#xA;&lt;a href=&#34;https://speakerdeck.com/lcorbucci/ais-hidden-cost-the-environmental-impact-of-machine-learning-devfest-pisa-2025&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;slides&lt;/a&gt; &lt;br /&gt; In this talk I discussed about AI Sustainability</description>
+    </item>
     <item>
       <title>Debug di Modelli ML: Il potere del Logging</title>
       <link>/talks/firenze_dev_2024/</link>
