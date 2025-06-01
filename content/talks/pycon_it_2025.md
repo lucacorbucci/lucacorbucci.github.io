@@ -1,8 +1,8 @@
 ---
-title: "test event"
-date: 2025-05-24
+title: "Learning Together, Distributed: An introduction to Federated Learning"
+date: 2025-05-31
 externalUrl: ""
-summary: "🗣 Talk @ Pycon 2024 - Florence - [slides](https://speakerdeck.com/lcorbucci/pycon-2024-is-your-model-private) - [video](https://www.youtube.com/watch?v=bzyM1avxIvk)<br /> In this talk I discussed about privacy risk of ML models and Differential Privacy."
+summary: "🗣 Talk @ Pycon 2025 - Bologna - [slides](https://speakerdeck.com/lcorbucci/pyconit) <br /> In this talk I talked about Federated Learning and how to implement it using Flower."
 showReadingTime: false
 tag: Future
 _build:
