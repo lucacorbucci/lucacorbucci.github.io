@@ -11,7 +11,7 @@ layout: "simple"
 - Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato - A Benchmark for Client-level Fairness in Federated Learning. Accepted at Fourth European Workshop on Algorithmic Fairness (EWAF) 2025 - Eindhoven, The Netherlands 🇳🇱
 
 
-- **Luca Corbucci**, Xenia Heilmann, Mattia Cerrato - Benefits of the Federation? Analyzing the Impact of Fair Federated Learning at the Client Level. Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2025 - Athens, Greece 🇬🇷
+- **Luca Corbucci**, Xenia Heilmann, Mattia Cerrato - [Benefits of the Federation? Analyzing the Impact of Fair Federated Learning at the Client Level.](https://facctconference.org/static/docs/facct2025-206archivalpdfs/facct2025-final1129-acmpaginated.pdf) Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2025 - Athens, Greece 🇬🇷
 
 - Valerio Bonsignori, **Luca Corbucci**, Francesca Naretto, Anna Monreale - Differentially Private FastSHAP for Federated Learning Model Explainability. Accepted at International Joint Conference on Neural Networks (IJCNN) 2025 - Rome, Italy 🇮🇹
 
