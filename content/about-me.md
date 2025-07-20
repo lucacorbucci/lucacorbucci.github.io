@@ -12,7 +12,7 @@ This is a short introduction of myself. If you want a more detailed description 
 
 ![Me giving a talk at Pycon IT 2024](/img/luca.webp)
 
-Hi 👋, I am Luca, a PhD candidate in Computer Science at the University of Pisa 🇮🇹 under the supervision of Prof. [Anna Monreale](https://scholar.google.com/citations?hl=en&user=bA-rXeUAAAAJ) and Dr. [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ&hl=en&oi=ao). My main research interest is Responsible AI. In particular, I am currently working on Privacy-Presering Machine Learning, Model (Un)Fairness and Explainability. 
+Hi 👋, I am Luca, a PhD candidate in Computer Science at the University of Pisa 🇮🇹 under the supervision of Prof. [Anna Monreale](https://scholar.google.com/citations?hl=en&user=bA-rXeUAAAAJ) and Dr. [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ&hl=en&oi=ao). My main research interest is Responsible AI. In particular, I am currently working on Privacy-Preserving Machine Learning, Model (Un)Fairness and Explainability. 
 However, I am attracted to new technologies. Therefore, I am also open to working on different and innovative topics.
 
 ### Education
