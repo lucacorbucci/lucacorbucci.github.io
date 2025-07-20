@@ -21,7 +21,7 @@ title = "Home"
   name = "Luca Corbucci"
   image =  "img/profile_pic1.png"
   headline = "Ph.D. candidate in Computer Science, podcaster and community manager"
-  bio = "Hi 👋! I’m Luca Corbucci, a Ph.D. candidate in Computer Science at the University of Pisa. <br> I'm interested in <b>Responsible AI</b>, during my PhD I focused on <b>Privacy</b>, <b>Fairness</b>, and <b>Explainability</b> in Federated Learning. <br> <br> <b>I'm currently looking for new opportunities (postdoc or research scientist roles) in Responsible AI</b>. <br> <a href=\"about-me/\">Read More</a>"
+  bio = "Hi 👋! I’m Luca Corbucci, a Ph.D. candidate in Computer Science at the University of Pisa. <br> During my PhD I focused on <b>Privacy</b>, <b>Fairness</b>, and <b>Explainability</b> in Federated Learning. <br> <br> <b>I'm currently looking for new opportunities (postdoc or research scientist roles) in Responsible AI</b>. <br> <a href=\"about-me/\">Read More</a>"
   links = [
      { email = "mailto:luca.corbucci@phd.unipi.it" },
   #   { link = "https://link-to-some-website.com/" },
