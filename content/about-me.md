@@ -6,13 +6,13 @@ layout: "simple"
 
 {{< lead >}}
 
-This is a short introduction of myself. If you want a more detailed description [you can read my CV](/CV.pdf) or visit my [LinkedIn account](https://www.linkedin.com/in/lucacorbucci/)
+This is a short introduction of myself. If you want a more detailed description [you can read my CV](/CV.pdf) ([longer version](/CV_long.pdf)) or visit my [LinkedIn account](https://www.linkedin.com/in/lucacorbucci/)
 
 {{< /lead >}}
 
 ![Me giving a talk at Pycon IT 2024](/img/luca.webp)
 
-Hi 👋, I am Luca, a PhD candidate in Computer Science at the University of Pisa 🇮🇹 under the supervision of Prof. [Anna Monreale](https://scholar.google.com/citations?hl=en&user=bA-rXeUAAAAJ) and Dr. [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ&hl=en&oi=ao). My main research interest is Responsible AI. In particular, I am currently working on Privacy-Preserving Machine Learning, Model (Un)Fairness and Explainability. 
+Hi 👋, I am Luca, I recently completed my PhD in Computer Science at the University of Pisa 🇮🇹 under the supervision of Prof. [Anna Monreale](https://scholar.google.com/citations?hl=en&user=bA-rXeUAAAAJ) and Dr. [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ&hl=en&oi=ao). I am interested in the intersection between Artificial Intelligence and Safety. In particular, I am currently working on Privacy-Preserving Machine Learning, Model (Un)Fairness and Explainability. 
 However, I am attracted to new technologies. Therefore, I am also open to working on different and innovative topics.
 
 ### Education
@@ -26,9 +26,10 @@ In 2021 I started my PhD at the University of Pisa. During the PhD I spent 12 mo
 
 ## {{< icon "graduation-cap" >}}&nbsp;Education
 
-- (2021 -- Present) Ph.D. in Computer Science -- University of Pisa, Italy 🇮🇹
-
-  - Main research interests: Private and Fair Federated Learning
+- (2021 -- 2025) Ph.D. in Computer Science -- University of Pisa, Italy 🇮🇹
+  - Thesis: "Beyond Model Accuracy: Building Trustworthy Federated Learning Systems"
+  - Grade: Summa cum laude
+  - Main research interests: Private, Fair and Explainable Federated Learning
 
 - (Oct 2019 -- Mar 2020) International Exchange -- Technical University of Munich, Germany 🇩🇪
 
@@ -88,10 +89,14 @@ In 2021 I started my PhD at the University of Pisa. During the PhD I spent 12 mo
 
 🎙 I have always been attracted to communities. Between 2013 and 2015, I worked as an editor for Biteyourapple.net, writing more than 1,000 posts, recording videos and participating in the Bitecast podcast. I am the [PointerPodcast](https://pointerpodcast.it/) co-founder. PointerPodcast is a podcast about technology and innovation. We have published more than 170 episodes since its creation in 2019. In most of them, we interview software engineers and researchers from academia and industry. Lately, I have founded two communities. The first is Superhero Valley, a community that tries to fill the gap between university and industry. It does this by providing awareness of the opportunities offered by big tech companies to students. The second is Pisa.dev a local community that organizes meetups for developers and computer scientists in Pisa 🇮🇹.
 
-🍦 In my free time I enjoy acting as a critique about books and TV shows. I also try to prepare myself for marathons sooner or later. If you are interested in all these things, [I created a page to share all these details](/picks/).
+🍦 In my free time I enjoy acting as a critique about books and TV shows.
 
 
 ### Volunteering
+
+- GDG Pisa Devfest 2025: I was one of the helpers of GDG Pisa Devfest 2025.
+
+- Co-organized the **"Low-Level AI Engineering & Hacking"** Dev Room at **Fosdem** 2025, a dedicated track for AI practitioners and researchers. Curated the schedule, coordinated speaker selection, and managed the call for proposals to ensure a diverse and high-quality lineup of talks.
 
 - GDG Pisa Devfest 2024: I was one of the helpers of GDG Pisa Devfest 2024.
 
