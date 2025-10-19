@@ -12,7 +12,7 @@ layout: "simple"
 
 - **Luca Corbucci**, Francesca Naretto, Anna Monreale - Enhancing Local Explanations with GAN-Based neighborhood generation - Accepted at Discovery Science'25 - Lubjana, Slovenia 🇸🇮
 
-- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato, Anna Monreale -[FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation](https://arxiv.org/pdf/2506.21095)
+- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato, Anna Monreale - [FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation](https://arxiv.org/pdf/2506.21095)
 
 - Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato - [A Benchmark for Client-level Fairness in Federated Learning](https://proceedings.mlr.press/v294/heilmann25a.html). Accepted at Fourth European Workshop on Algorithmic Fairness (EWAF) 2025 - Eindhoven, The Netherlands 🇳🇱
 
