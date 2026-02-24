@@ -6,13 +6,17 @@ layout: "simple"
 
 ### ✍️ Publications
 
+#### 2026
+
+- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato - [Rashomon Sets and Model Multiplicity in Federated Learning](). Preprint available on [arXiv](https://arxiv.org/abs/2602.09520). Preprint
+
 #### 2025
 
-- **Luca Corbucci**, Javier Alejandro Borges Legrottaglie, Francesco Spinnato, Anna Monreale, Riccardo Guidotti - An Interpretable Data-Driven Unsupervised Approach for the Prevention of Forgotten Items. Accepted at at the 28th European Conference on Artificial Intelligence (ECAI 2025) - Bologna, Italy 🇮🇹
+- **Luca Corbucci**, Javier Alejandro Borges Legrottaglie, Francesco Spinnato, Anna Monreale, Riccardo Guidotti - [An Interpretable Data-Driven Unsupervised Approach for the Prevention of Forgotten Items](https://arxiv.org/abs/2507.23303). Accepted at at the 28th European Conference on Artificial Intelligence (ECAI 2025) - Bologna, Italy 🇮🇹
 
-- **Luca Corbucci**, Francesca Naretto, Anna Monreale - Enhancing Local Explanations with GAN-Based neighborhood generation - Accepted at Discovery Science'25 - Lubjana, Slovenia 🇸🇮
+- **Luca Corbucci**, Francesca Naretto, Anna Monreale - [Enhancing Local Explanations with GAN-Based neighborhood generation](https://link.springer.com/chapter/10.1007/978-3-032-05461-6_21) - Accepted at Discovery Science'25 - Lubjana, Slovenia 🇸🇮
 
-- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato, Anna Monreale - [FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation](https://arxiv.org/pdf/2506.21095)
+- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato, Anna Monreale - [FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation](https://arxiv.org/pdf/2506.21095). Preprint.
 
 - Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato - [A Benchmark for Client-level Fairness in Federated Learning](https://proceedings.mlr.press/v294/heilmann25a.html). Accepted at Fourth European Workshop on Algorithmic Fairness (EWAF) 2025 - Eindhoven, The Netherlands 🇳🇱
 
@@ -42,6 +46,18 @@ layout: "simple"
 - Javier Alejandro Borges Legrottaglie, "A Data-Driven Unsupervised Approach for the Prevention of Forgotten Items"​, Master Degree in Digital Humanities, 2025
 - Francesco Cappellini, “Federated Explainable Artificial Intelligence: A Case Study"​, One-year Master in Big Data Analytics & Social Mining, 2023
 
+### Reviewer for:
+
+**Conferences**
+
+- ECAI: 2024
+- ECML-PKDD: 2024, 2025, 2026
+- Discovery Science: 2024, 2026
+
+**Journals**
+
+- [Computer Communications](https://www.sciencedirect.com/journal/computer-communications) since February 2026
+- [TMLR](https://jmlr.org/tmlr/) since November 2025
 
 ### ✈️ Participation in conferences and Summer Schools
 
@@ -54,4 +70,3 @@ layout: "simple"
 - **XAI World Conference 2023** - _25th - July 28rd, 2023_. Lisbon, Portugal 🇵🇹
 - **Lipari Summer School** - DATA SCIENCE: Models, Algorithms, AI and Beyond July - _17th - July 23rd, 2022_. Lipari 🇮🇹
 - **HHAI**: The first International Conference on Hybrid Human-Artificial Intelligence - _13-17 June 2022_, Amsterdam 🇳🇱
-

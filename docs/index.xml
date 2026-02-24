@@ -6,13 +6,34 @@
     <description>Recent content on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Mixture of Experts</title>
+      <link>/posts/stories/tmp_7/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/stories/tmp_7/</guid>
+      <description></description>
+    </item>
     <item>
       <title>2025: Year in Review</title>
       <link>/posts/stories/2025/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
       <guid>/posts/stories/2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On Studying LLMs and Preparing for Interviews</title>
+      <link>/posts/stories/studying_llms/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/stories/studying_llms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RL Algorithms</title>
+      <link>/posts/stories/rl/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/stories/rl/</guid>
       <description></description>
     </item>
     <item>
