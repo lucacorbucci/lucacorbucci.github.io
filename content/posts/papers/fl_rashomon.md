@@ -1,7 +1,7 @@
 ---
 author: lucacorbucci
 title: Rashomon Sets and Model Multiplicity in Federated Learning
-date: 2026-02-17
+date: 2026-03-03
 description:
 math: true
 draft: true
@@ -33,18 +33,13 @@ To address this, we provide a first formalization of Rashomon sets for FL. We in
 - t-agreement Rashomon Set: Requires models to meet performance thresholds across a specific fraction (t) of individual clients, filtering out models that only look good on average but fail locally.
 - Individual Rashomon Set: Empowers each client to maintain their own set of high-performing models based on their specific, local data distribution.
 
-
-
-
-
-
 To put these definitions into practice, we designed an end-to-end pipeline that integrates Rashomon set analysis into FL. It requires at most two extra communication rounds beyond standard training and consists of three stages:
 
-    Candidate Generation: Instead of training just one model, the server orchestrates the training of multiple FL models (using a re-training strategy with varying configurations, seeds, or client participation rates) to serve as a pool of candidates.
+1) Candidate Generation: Instead of training just one model, the server orchestrates the training of multiple FL models (using a re-training strategy with varying configurations, seeds, or client participation rates) to serve as a pool of candidates.
 
-    Rashomon Set Construction: Candidate models are evaluated on client data. For the Global and t-agreement sets, clients evaluate models locally and share the aggregated performance results with the server, which then determines which models make the cut. For the Individual set, clients filter the models entirely locally.
+2) Rashomon Set Construction: Candidate models are evaluated on client data. For the Global and t-agreement sets, clients evaluate models locally and share the aggregated performance results with the server, which then determines which models make the cut. For the Individual set, clients filter the models entirely locally.
 
-    Multiplicity Analysis: Finally, we compute predictive multiplicity metrics on the surviving models in the Rashomon set to understand exactly how their behaviors diverge.
+3) Multiplicity Analysis: Finally, we compute predictive multiplicity metrics on the surviving models in the Rashomon set to understand exactly how their behaviors diverge.
 
 ## Experiments & Key Findings
 
@@ -52,28 +47,11 @@ To understand how these three definitions operate in practice, we implemented a 
 
 We constructed our candidate models using a standard re-training strategy and evaluated them across varying performance constraints (using accuracy as our baseline metric). Here is what we found when comparing the different Rashomon sets:
 
-    Global vs. t-agreement: The Global Rashomon set generally yields higher multiplicity metrics and a larger pool of models. In contrast, the t-agreement definition acts as a strict filter. As the agreement threshold t increases, the Rashomon set shrinks significantly, filtering out models that only perform well on average but fail on local distributions.
+1) The Global Rashomon set generally yields higher multiplicity metrics and a larger pool of models. In contrast, the t-agreement definition acts as a strict filter. As the agreement threshold t increases, the Rashomon set shrinks significantly, filtering out models that only perform well on average but fail on local distributions.
+2) When we looked at the Individual Rashomon sets, we found that local multiplicity metrics often deviated wildly from the global averages. This proves that global aggregation completely fails to capture the heterogeneity of model behavior on specific clients.
+3) Interestingly, when compared to a traditional centralized machine learning baseline, deploying Rashomon sets within an FL setting actually reduced the discrepancy (prediction volatility) between models.
 
-    The Necessity of Individual Sets: When we looked at the Individual Rashomon sets, we found that local multiplicity metrics often deviated wildly from the global averages. This proves that global aggregation completely fails to capture the heterogeneity of model behavior on specific clients.
-
-    Reduced Prediction Volatility: Interestingly, when compared to a traditional centralized machine learning baseline, deploying Rashomon sets within an FL setting actually reduced the discrepancy (prediction volatility) between models.
-
-The Fairness Advantage: A Practical Application
-
-Why does all of this matter? Because model multiplicity gives clients the power of choice without sacrificing global performance.
-
-We demonstrated this by looking at Demographic Parity (a standard fairness metric) on the Dutch Census and ACS Income datasets. We took the models from the smallest valid Global Rashomon set (for example, models within a strict ϵ=0.008 performance margin for the Dutch dataset) and evaluated them locally.
-
-Our findings were striking: different models in the Rashomon set exhibited vastly different fairness properties across different clients. Instead of being stuck with a single, potentially biased global model, clients could explore their Rashomon set and deploy the model that best minimized local bias—all while maintaining top-tier global predictive accuracy.
 
 ## Conclusion
 
 The standard FL paradigm of deploying a single "best" model is insufficient for diverse, decentralized networks. It creates an illusion of optimal performance while hiding local failures and biases. Our work establishes the theoretical and practical foundations necessary to define Rashomon sets and evaluate predictive multiplicity in FL settings. By adopting a multiplicity-aware approach, we can move toward more transparent, accountable, and highly customizable FL systems.
-
-## Future Work
-
-While our methodology provides a robust foundation, there are exciting avenues for future research to make this process even more efficient:
-
-    Overcoming the Re-training Bottleneck: Currently, generating candidate models relies on computationally intensive re-training. Future work should explore ways to construct Rashomon sets by exploiting the intermediate model updates and aggregation phases already happening within the FL training process.
-
-    Expanding to Other Decentralized Frameworks: We focused on multi-party FL, but other Secure Multi-Party Computation (SMPC) frameworks (like CrypTen) introduce entirely different communication structures and heterogeneity. Extending our multiplicity metrics to these environments remains an open challenge.
