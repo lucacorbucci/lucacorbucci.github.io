@@ -8,15 +8,15 @@ layout: "simple"
 
 #### 2026
 
-- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato - [Rashomon Sets and Model Multiplicity in Federated Learning](). Preprint available on [arXiv](https://arxiv.org/abs/2602.09520). Preprint
+- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato - Rashomon Sets and Model Multiplicity in Federated Learning. Preprint available on [arXiv](https://arxiv.org/abs/2602.09520). Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2025 - Montréal, Canada 🇨🇦
+
+- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato, Anna Monreale - FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation. Preprint available on [arXiv](https://arxiv.org/pdf/2506.21095). Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2025 - Montréal, Canada 🇨🇦
 
 #### 2025
 
 - **Luca Corbucci**, Javier Alejandro Borges Legrottaglie, Francesco Spinnato, Anna Monreale, Riccardo Guidotti - [An Interpretable Data-Driven Unsupervised Approach for the Prevention of Forgotten Items](https://arxiv.org/abs/2507.23303). Accepted at at the 28th European Conference on Artificial Intelligence (ECAI 2025) - Bologna, Italy 🇮🇹
 
 - **Luca Corbucci**, Francesca Naretto, Anna Monreale - [Enhancing Local Explanations with GAN-Based neighborhood generation](https://link.springer.com/chapter/10.1007/978-3-032-05461-6_21) - Accepted at Discovery Science'25 - Lubjana, Slovenia 🇸🇮
-
-- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato, Anna Monreale - [FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation](https://arxiv.org/pdf/2506.21095). Preprint.
 
 - Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato - [A Benchmark for Client-level Fairness in Federated Learning](https://proceedings.mlr.press/v294/heilmann25a.html). Accepted at Fourth European Workshop on Algorithmic Fairness (EWAF) 2025 - Eindhoven, The Netherlands 🇳🇱
 
