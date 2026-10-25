@@ -1,96 +1,101 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home</title>
-    <link>/</link>
-    <description>Recent content on Home</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Notes on Mixture of Experts</title>
-      <link>/posts/stories/tmp_7/</link>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/posts/stories/tmp_7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2025: Year in Review</title>
-      <link>/posts/stories/2025/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/stories/2025/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Installing and setting up Immich on MacOS and Android</title>
-      <link>/posts/stories/5/</link>
-      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/stories/5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>From last row attendee to community organizer</title>
-      <link>/posts/stories/4/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/stories/4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My talk at Pycon IT 🇮🇹 2022 </title>
-      <link>/posts/stories/3/</link>
-      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/posts/stories/3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>How to install hdf5 on M1 Mac</title>
-      <link>/posts/stories/2/</link>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/posts/stories/2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hello World!</title>
-      <link>/posts/stories/1/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/stories/1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>/picks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/picks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>/talks/xai_23/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talks/xai_23/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>/uses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/uses/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hi there I&#39;m Luca 👋</title>
-      <link>/about-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about-me/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>What I&#39;m doing now</title>
-      <link>/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/now/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Home</title>
+		<link>/</link>
+		<description>Recent content on Home</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Notes on Mixture of Experts</title>
+				<link>/posts/stories/tmp_7/</link>
+				<pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/stories/tmp_7/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2025: Year in Review</title>
+				<link>/posts/stories/2025/</link>
+				<pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>/posts/stories/2025/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Installing and setting up Immich on MacOS and Android</title>
+				<link>/posts/stories/5/</link>
+				<pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>/posts/stories/5/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>From last row attendee to community organizer</title>
+				<link>/posts/stories/4/</link>
+				<pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>/posts/stories/4/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>My talk at Pycon IT 🇮🇹 2022 </title>
+				<link>/posts/stories/3/</link>
+				<pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+				<guid>/posts/stories/3/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>How to install hdf5 on M1 Mac</title>
+				<link>/posts/stories/2/</link>
+				<pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+				<guid>/posts/stories/2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hello World!</title>
+				<link>/posts/stories/1/</link>
+				<pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+				<guid>/posts/stories/1/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>/picks/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/picks/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>/talks/xai_23/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/talks/xai_23/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>/uses/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/uses/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hi there I&#39;m Luca 👋</title>
+				<link>/about-me/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/about-me/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>What I&#39;m doing now</title>
+				<link>/now/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/now/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
