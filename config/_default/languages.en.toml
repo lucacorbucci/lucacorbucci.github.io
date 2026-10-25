@@ -7,23 +7,23 @@ title = "Home"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  isoCode = "en"
-  displayName = "EN"
-  rtl = false
+isoCode = "en"
+displayName = "EN"
+rtl = false
 
-  dateFormat = "2 January 2006"
+dateFormat = "2 January 2006"
 
-  # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+# mainSections = ["section1", "section2"]
+# description = "My awesome website"
 
 
 [params.author]
-  name = "Luca Corbucci"
-  image =  "img/profile_pic1.png"
-  headline = "Postdoctoral researcher, PhD in Computer Science, podcaster and community manager"
-  bio = "Hi 👋! I'm Luca Corbucci, a Postdoctoral researcher at FBK in Trento working on Multimodal LLMs. I received my PhD in Computer Science from University of Pisa where I focused on <b>Privacy</b>, <b>Fairness</b>, and <b>Explainability</b> in Federated Learning. <br> <br>  <a href=\"/about-me/\">Read More</a>"
-  links = [
-     { email = "mailto:luca.corbucci@phd.unipi.it" },
+name = "Luca Corbucci"
+image = "img/profile_pic1.png"
+headline = "Postdoctoral researcher at FBK working on Multimodal LLMs"
+bio = "Hi 👋! I'm Luca Corbucci, a Postdoctoral researcher at Fondazione Bruno Kessler (FBK) in Trento. My research focuses on <b>Multimodal Large Language Models</b>, with a focus on <b>SpeechLLMs</b>. Previously, I worked on <b>Privacy</b>, <b>Fairness</b>, and <b>Explainability</b> in Federated Learning during my PhD at the University of Pisa. <br> <br> <a href=\"/research/\">Read about my research</a> · <a href=\"/about-me/\">Read more about me</a>"
+links = [
+  { email = "mailto:corbuccilu@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -35,7 +35,7 @@ title = "Home"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-     { github = "https://github.com/lucacorbucci" },
+  { github = "https://github.com/lucacorbucci" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
@@ -43,9 +43,12 @@ title = "Home"
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-     { linkedin = "https://www.linkedin.com/in/lucacorbucci/" },
-     { mastodon = "https://mastodon.cloud/@lucacorbucci" },
-     { medium = "https://lucacorbucci.medium.com/" },
+  { linkedin = "https://www.linkedin.com/in/lucacorbucci/" },
+  { google-scholar = "https://scholar.google.com/citations?hl=it&user=TXjmMzAAAAAJ&view_op=list_works&authuser=1&sortby=pubdate" },
+  { orcid = "https://orcid.org/0000-0001-5427-5518" },
+  { link = "/CV.pdf" },
+  { mastodon = "https://mastodon.cloud/@lucacorbucci" },
+  { medium = "https://lucacorbucci.medium.com/" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
   #   { patreon = "https://www.patreon.com/username" },
@@ -57,11 +60,11 @@ title = "Home"
   #   { soundcloud = "https://soundcloud.com/username" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
-     { telegram = "https://t.me/pointerpodcastgruppo" },
+  { telegram = "https://t.me/pointerpodcastgruppo" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { twitter = "https://twitter.com/lucacorbucci" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  ]
+]
