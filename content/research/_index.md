@@ -14,6 +14,23 @@ Each paper has a short [research post](/posts/) explaining the problem, approach
 
 {{< publication-cards >}}
 
+
+## European projects
+
+These are European projects I have contributed to at different stages of my research.
+
+### Current contributions
+
+- **[Meetween](https://www.meetween.eu/about/)**: a Horizon Europe project developing multilingual meeting AI, including speech-to-speech translation, summarisation, and multimodal speech models. I am contributing to deliverables and to the fine-tuning of models.
+- **[DVPS](https://dvps.translated.com/)**: a Horizon Europe project on multimodal foundation models combining speech, text, video, gestures, and other modalities. I am contributing to the development of Personalized Multimodal LLMs. 
+- **[LLMs4EU](https://www.llms4eu.eu/about/)**: an EU project focused on adapting and deploying language models across European languages and application areas. 
+
+### Previous contributions
+
+- **[TANGO](https://cordis.europa.eu/project/id/101120763)**: a Horizon Europe project on hybrid human–machine decision making. My PhD research was partially supported by this project.
+- **[SPATIAL](https://cordis.europa.eu/project/id/101021808)** — a Horizon 2020 project on secure, privacy-preserving, and trustworthy AI. During my research internship at Telefónica R&D in Barcelona, I worked on private and fair federated learning under SPATIAL.
+
+
 ## 📚 Thesis Co-Supervision
 
 - Elia Bisconti, "Towards Personalized Explainability: The development of a Modular Recommender System to Assess Explanation Suitability for Different Personas", Master Degree in Computer Science, 2025
@@ -33,21 +50,6 @@ Each paper has a short [research post](/posts/) explaining the problem, approach
 
 - [Computer Communications](https://www.sciencedirect.com/journal/computer-communications) since February 2026
 - [TMLR](https://jmlr.org/tmlr/) since November 2025
-
-## European projects
-
-These are European projects I have contributed to at different stages of my research; they are not projects I led or won.
-
-### Current contributions
-
-- **[Meetween](https://www.meetween.eu/about/)**: a Horizon Europe project developing multilingual meeting AI, including speech-to-speech translation, summarisation, and multimodal speech models. I am contributing to deliverables and to the fine-tuning of models.
-- **[DVPS](https://dvps.translated.com/)**: a Horizon Europe project on multimodal foundation models combining speech, text, video, gestures, and other modalities. I am contributing to the development of Personalized Multimodal LLMs. 
-- **[LLMs4EU](https://www.llms4eu.eu/about/)**: an EU project focused on adapting and deploying language models across European languages and application areas. 
-
-### Previous contributions
-
-- **[TANGO](https://cordis.europa.eu/project/id/101120763)**: a Horizon Europe project on hybrid human–machine decision making. My PhD research was partially supported by this project.
-- **[SPATIAL](https://cordis.europa.eu/project/id/101021808)** — a Horizon 2020 project on secure, privacy-preserving, and trustworthy AI. During my research internship at Telefónica R&D in Barcelona, I worked on private and fair federated learning under SPATIAL.
 
 ## ✈️ Participation in conferences and Summer Schools
 
