@@ -10,72 +10,32 @@ This is a short introduction of myself. If you want a more detailed description 
 
 {{< /lead >}}
 
-![Me giving a talk at Pycon IT 2024](/img/luca.webp)
+![Me giving a talk at Pycon IT 2026](/img/luca-pycon-2026.webp)
 
-Hi 👋, I am Luca, a postdoctoral researcher at Fondazione Bruno Kessler (FBK) in Trento, 🇮🇹. I completed my PhD in Computer Science at the University of Pisa 🇮🇹 in July 2025 under the supervision of Prof. [Anna Monreale](https://scholar.google.com/citations?hl=en&user=bA-rXeUAAAAJ) and Dr. [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ&hl=en&oi=ao). My current research focuses on **Multimodal Large Language Models**, with a special interest for Speech. During my PhD I worked on Privacy-Preserving, Fair, and Explainable Federated Learning.
+Hi 👋, I am Luca, a postdoctoral researcher at Fondazione Bruno Kessler (FBK) in Trento 🇮🇹, where I work in the Machine Translation Unit. My current research focuses on **Multimodal Large Language Models**, with a special interest in Speech.
 
-### Education
+I completed my PhD in Computer Science at the University of Pisa 🇮🇹 in July 2025, with the highest grade (*summa cum laude*), under the supervision of Prof. [Anna Monreale](https://scholar.google.com/citations?hl=en&user=bA-rXeUAAAAJ) and Dr. [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ&hl=en&oi=ao). During my PhD I worked on **AI safety for Federated Learning**: privacy, fairness and explainability. I have authored papers at venues such as FAccT and ECAI (see my [research](/research/)), spent a year as a research intern at Telefónica Research in Barcelona 🇪🇸, and collaborated with Johannes Gutenberg-Universität Mainz.
 
-🧑‍🎓 I received a B.Sc. degree in Computer Science in 2018 and a M.Sc. degree in Computer Science in 2021 with the thesis “[Semantic enrichment of XAI explanations for healthcare](https://link.springer.com/chapter/10.1007/978-3-031-45275-8_15)”.
-In 2019, I spent one semester at the Computer Science Department of the Technische Universität München 🇩🇪 as an exchange student thanks to the Erasmus program.
+Outside the lab I am a speaker, a community builder (Superhero Valley and Pisa.dev) and a podcaster (310+ episodes).
 
-In 2021 I started my PhD at the University of Pisa. During the PhD I spent 12 months as a Research Intern at the Telefonica Research Center in Barcelona 🇪🇸. I am grateful to have been supervised by [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ&hl=en&oi=ao), [Mikko Heikkila](https://scholar.google.com/citations?user=8qSL6B0AAAAJ&hl=it&oi=ao) and [David Solans](https://scholar.google.com/citations?user=hcZ0tb8AAAAJ&hl=it&oi=ao). During this period I worked on Private and Fair Federated Learning funded by the SPATIAL EU project.
+## {{< icon "calendar-alt" >}}&nbsp;My path
 
-## {{< icon "graduation-cap" >}}&nbsp;Education
+{{< path-timeline >}}
 
-- (2021 -- 2025) Ph.D. in Computer Science -- University of Pisa, Italy 🇮🇹
-  - Thesis: "Beyond Model Accuracy: Building Trustworthy Federated Learning Systems"
-  - Grade: Summa cum laude
-  - Main research interests: Private, Fair and Explainable Federated Learning
+## {{< icon "code" >}}&nbsp;Software Projects
 
-- (Oct 2019 -- Mar 2020) International Exchange -- Technical University of Munich, Germany 🇩🇪
+- **[PUFFLE](https://github.com/lucacorbucci/PUFFLE)**: a regularization-based method that balances privacy, utility and fairness in Federated Learning, with custom fairness requirements defined by practitioners (Mar 2023 -- ongoing).
+- **Fire360**: a fast local explainer for tabular data that uses a single synthetic neighborhood instead of costly per-instance generation (Feb 2025 -- Mar 2025).
+- **FastShap++**: an extension of FastSHAP to Federated Learning with Differential Privacy to protect client data during explanation (Oct 2024 -- Feb 2025).
 
-- (2018 -- 2021) Master Degree in Computer Science -- University of Pisa, Italy 🇮🇹
-
-  - Thesis: Semantic Enrichment of XAI Explanation for Healthcare (supervisor: Prof. Anna Monreale, Dott. Cecilia Panigutti)
-
-- (2014 -- 2018) BSc in Computer Science -- University of Pisa, Italy 🇮🇹
-
-  - Thesis: Construction and Analysis of the Ethereum Transaction Graphs (supervisor: Prof. Laura Ricci, Dott. Damiano Di Francesco Maesa)
-
-## {{< icon "briefcase" >}} Work Experience
-
-- (Mar 2023 -- Mar 2024) Visiting PhD Student and Research Intern -- Telefonica R&D, Barcelona, Spain 🇪🇸
-
-  - Working on Privacy Preserving Machine Learning, Fairness and Federated Learning
-
-- (Jan 2022 -- Apr 2022) Teaching Assistant -- University of Pisa, Italy 🇮🇹
-
-  - Tutoring activities for the "Laboratorio 1" course. Main topics: Javascript and Typescript.
-
-- (Jun 2021 -- Oct 2021) Research Assistant -- University of Pisa, Italy 🇮🇹
-
-  - Won a research scholarship to continue my master’s thesis project.
-
-  - Worked on the extension of XAI methods for healthcare
-
-- (Jan 2021 -- Feb 2021) Teaching assistant -- University of Pisa, Italy 🇮🇹
-
-  - Tutoring activities for the "Programming and Algorithmics" course.
-
-- (Sep 2020 -- Dec 2020) Teaching assistant -- University of Pisa, Italy 🇮🇹
-
-  - Freshmen tutor - Computer Science students.
-
-- (Mar 2020 -- Jun 2021) Flutter Developer - Tocket -- Remote 🇮🇹
- 
-  - Developed the MVP Tocket's application using Flutter. The app was published on the iOS App Store and the Google Play Store and downloaded more than 20.000 times.
-
-  - Developed an internal dashboard to add new events
 
 ### Podcast and Communities
 
-🎙 I have always been attracted to communities. 
+🎙 I have always been attracted to communities.
 
-Between 2013 and 2015, I worked as an editor for Biteyourapple.net, writing more than 1,000 blog-posts, recording videos and participating in the Bitecast podcast. 
-I am one of the [PointerPodcast](https://pointerpodcast.it/) co-founder. PointerPodcast is a podcast about technology and innovation. We have published more than 300 episodes since its creation in 2019. In some of them, we interview software engineers and researchers from academia and industry. I have also co-founded two communities. The first is Superhero Valley, a community that fills the gap between university and industry. It does this by providing awareness of the opportunities offered by big tech companies to students. The second is Pisa.dev a local community that organizes meetups for developers and computer scientists in Pisa 🇮🇹.
+Between 2013 and 2015, I worked as an editor for Biteyourapple.net, writing more than 1,000 blog-posts, recording videos and participating in the Bitecast podcast. I am one of the [PointerPodcast](https://pointerpodcast.it/) co-founders. PointerPodcast is a podcast about technology and innovation, published since 2019. In some episodes, we interview software engineers and researchers from academia and industry. I have also co-founded two communities. The first is Superhero Valley, which fills the gap between university and industry by making students aware of the opportunities offered by big tech companies. The second is Pisa.dev, a local community that organizes meetups for developers and computer scientists in Pisa 🇮🇹.
 
-🍦 In my free time I enjoy acting as a critique about TV shows, mainly in my podcast.
+🍦 In my free time I enjoy acting as a critic of TV shows, mainly in my podcast.
 
 ### Volunteering
 

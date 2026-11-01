@@ -1,0 +1,38 @@
+<div class="path-legend" role="group" aria-label="Filter my path">
+  <button type="button" class="path-legend__item" data-filter="all" aria-pressed="true">All</button>
+  <button type="button" class="path-legend__item path-legend__item--academia" data-filter="academia" aria-pressed="false">Academia</button>
+  <button type="button" class="path-legend__item path-legend__item--work" data-filter="work" aria-pressed="false">Work</button>
+  <button type="button" class="path-legend__item path-legend__item--community" data-filter="community" aria-pressed="false">Communities</button>
+</div>
+<ol class="path-timeline">
+  {{- range site.Data.path }}
+  <li class="path-item path-item--{{ .type }}" data-type="{{ .type }}">
+    <span class="path-item__dot" aria-hidden="true"></span>
+    <div class="path-item__card">
+      <div class="path-item__period">{{ .period }}</div>
+      <h4 class="path-item__title">{{ .title }}</h4>
+      <div class="path-item__org">{{ .org | safeHTML }} · {{ .place }}</div>
+      <ul class="path-item__points">
+        {{- range .points }}<li>{{ . | safeHTML }}</li>{{ end }}
+      </ul>
+    </div>
+  </li>
+  {{- end }}
+</ol>
+<script>
+  (function () {
+    var buttons = document.querySelectorAll(".path-legend [data-filter]");
+    var items = document.querySelectorAll(".path-item");
+    buttons.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var f = btn.getAttribute("data-filter");
+        buttons.forEach(function (b) {
+          b.setAttribute("aria-pressed", b === btn ? "true" : "false");
+        });
+        items.forEach(function (it) {
+          it.hidden = f !== "all" && it.getAttribute("data-type") !== f;
+        });
+      });
+    });
+  })();
+</script>

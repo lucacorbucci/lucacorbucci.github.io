@@ -1,0 +1,222 @@
+- year: 2026
+  title: "Training Small LLMs from Scratch: Lessons from Zagreus and Nesso"
+  authors:
+    - Alessandro Ercolani
+    - Edoardo Federici
+    - Luisa Bentivogli
+    - Luca Corbucci
+  venue: "CLiC-it 2026"
+  status: "Published"
+  location: "Palermo, Italy 🇮🇹"
+  topics: [Language Models]
+  featured: true
+  pdf: /papers/training-small-llms-from-scratch-lessons-from-zagreus-and-nesso.pdf
+  preview: /img/papers/training-small-llms-from-scratch-lessons-from-zagreus-and-nesso.png
+
+- year: 2026
+  title: "Interpreting Federated Learning by Aggregating SHAP Explanations"
+  authors:
+    - Valerio Bonsignori
+    - Luca Corbucci
+    - Francesca Naretto
+    - Riccardo Guidotti
+    - Anna Monreale
+  venue: "IEEE Access"
+  status: "Published"
+  location: "Journal"
+  topics: [Federated Learning, Explainable AI, Privacy]
+  featured: true
+  pdf: /papers/interpreting-federated-learning-by-aggregating-shap-explanations.pdf
+  preview: /img/papers/interpreting-federated-learning-by-aggregating-shap-explanations.png
+  links:
+    - label: DOI
+      url: https://doi.org/10.1109/ACCESS.2026.3696009
+
+- year: 2026
+  title: "Rashomon Sets and Model Multiplicity in Federated Learning"
+  authors:
+    - Xenia Heilmann
+    - Luca Corbucci
+    - Mattia Cerrato
+  venue: "ACM Conference on Fairness, Accountability, and Transparency (FAccT)"
+  status: "Published"
+  location: "Montréal, Canada 🇨🇦"
+  topics: [Federated Learning, Fairness]
+  featured: true
+  pdf: /papers/rashomon-sets-and-model-multiplicity-in-federated-learning.pdf
+  preview: /img/papers/rashomon-sets-and-model-multiplicity-in-federated-learning.png
+  links:
+    - label: Preprint
+      url: https://arxiv.org/abs/2602.09520
+
+- year: 2026
+  title: "FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation"
+  authors:
+    - Xenia Heilmann
+    - Luca Corbucci
+    - Mattia Cerrato
+    - Anna Monreale
+  venue: "ACM Conference on Fairness, Accountability, and Transparency (FAccT)"
+  status: "Published"
+  location: "Montréal, Canada 🇨🇦"
+  topics: [Federated Learning, Fairness, Datasets]
+  featured: true
+  pdf: /papers/feda4fair-client-level-federated-datasets-for-fairness-evaluation.pdf
+  preview: /img/papers/feda4fair-client-level-federated-datasets-for-fairness-evaluation.png
+  links:
+    - label: Preprint
+      url: https://arxiv.org/abs/2506.21095
+
+- year: 2025
+  title: "An Interpretable Data-Driven Unsupervised Approach for the Prevention of Forgotten Items"
+  authors:
+    - Luca Corbucci
+    - Javier Alejandro Borges Legrottaglie
+    - Francesco Spinnato
+    - Anna Monreale
+    - Riccardo Guidotti
+  venue: "28th European Conference on Artificial Intelligence (ECAI)"
+  status: "Published"
+  location: "Bologna, Italy 🇮🇹"
+  topics: [Explainable AI, Machine Learning]
+  featured: true
+  pdf: /papers/an-interpretable-data-driven-unsupervised-approach-for-the-prevention-of-forgotten-items.pdf
+  preview: /img/papers/an-interpretable-data-driven-unsupervised-approach-for-the-prevention-of-forgotten-items.png
+  links:
+    - label: Preprint
+      url: https://arxiv.org/abs/2507.23303
+
+- year: 2025
+  title: "Enhancing Local Explanations with GAN-Based Neighborhood Generation"
+  authors:
+    - Luca Corbucci
+    - Francesca Naretto
+    - Anna Monreale
+  venue: "Discovery Science"
+  status: "Published"
+  location: "Ljubljana, Slovenia 🇸🇮"
+  topics: [Explainable AI, Generative Models]
+  featured: true
+  pdf: /papers/enhancing-local-explanations-with-gan-based-neighborhood-generation.pdf
+  preview: /img/papers/enhancing-local-explanations-with-gan-based-neighborhood-generation.png
+  links:
+    - label: Publisher
+      url: https://link.springer.com/chapter/10.1007/978-3-032-05461-6_21
+
+- year: 2025
+  title: "A Benchmark for Client-Level Fairness in Federated Learning"
+  authors:
+    - Xenia Heilmann
+    - Luca Corbucci
+    - Mattia Cerrato
+  venue: "Fourth European Workshop on Algorithmic Fairness (EWAF)"
+  status: "Published"
+  location: "Eindhoven, The Netherlands 🇳🇱"
+  topics: [Federated Learning, Fairness, Benchmarking]
+  pdf: /papers/a-benchmark-for-client-level-fairness-in-federated-learning.pdf
+  preview: /img/papers/a-benchmark-for-client-level-fairness-in-federated-learning.png
+  links:
+    - label: PMLR page
+      url: https://proceedings.mlr.press/v294/heilmann25a.html
+
+- year: 2025
+  title: "Benefits of the Federation? Analyzing the Impact of Fair Federated Learning at the Client Level"
+  authors:
+    - Luca Corbucci
+    - Xenia Heilmann
+    - Mattia Cerrato
+  venue: "ACM Conference on Fairness, Accountability, and Transparency (FAccT)"
+  status: "Published"
+  location: "Athens, Greece 🇬🇷"
+  topics: [Federated Learning, Fairness]
+  pdf: /papers/benefits-of-the-federation-analyzing-the-impact-of-fair-federated-learning-at-the-client-level.pdf
+  preview: /img/papers/benefits-of-the-federation-analyzing-the-impact-of-fair-federated-learning-at-the-client-level.png
+  links:
+    - label: DOI
+      url: https://doi.org/10.1145/3715275.3732152
+
+- year: 2025
+  title: "Differentially Private FastSHAP for Federated Learning Model Explainability"
+  authors:
+    - Valerio Bonsignori
+    - Luca Corbucci
+    - Francesca Naretto
+    - Anna Monreale
+  venue: "International Joint Conference on Neural Networks (IJCNN)"
+  status: "Published"
+  location: "Rome, Italy 🇮🇹"
+  topics: [Federated Learning, Explainable AI, Privacy]
+  pdf: /papers/differentially-private-fastshap-for-federated-learning-model-explainability.pdf
+  preview: /img/papers/differentially-private-fastshap-for-federated-learning-model-explainability.png
+  links:
+    - label: DOI
+      url: https://doi.org/10.1109/IJCNN64981.2025.11227553
+
+- year: 2024
+  title: "PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning"
+  authors:
+    - Luca Corbucci
+    - Mikko A Heikkila
+    - David Solans Noguero
+    - Anna Monreale
+    - Nicolas Kourtellis
+  venue: "27th European Conference on Artificial Intelligence (ECAI)"
+  status: "Presented"
+  location: "Santiago de Compostela, Spain 🇪🇸"
+  topics: [Federated Learning, Privacy, Fairness]
+  pdf: /papers/puffle-balancing-privacy-utility-and-fairness-in-federated-learning.pdf
+  preview: /img/papers/puffle-balancing-privacy-utility-and-fairness-in-federated-learning.png
+  links:
+    - label: Preprint
+      url: https://arxiv.org/abs/2407.15224
+
+- year: 2024
+  title: "Enhancing Privacy and Utility in Federated Learning: A Hybrid P2P and Server-Based Approach with Differential Privacy Protection"
+  authors:
+    - Luca Corbucci
+    - Anna Monreale
+    - Roberto Pellungrini
+  venue: "21st International Conference on Security and Cryptography (SECRYPT)"
+  status: "Presented"
+  location: "Dijon, France 🇫🇷"
+  topics: [Federated Learning, Privacy]
+  pdf: /papers/enhancing-privacy-and-utility-in-federated-learning-a-hybrid-p2p-and-server-based-approach-with-differential-privacy-protection.pdf
+  preview: /img/papers/enhancing-privacy-and-utility-in-federated-learning-a-hybrid-p2p-and-server-based-approach-with-differential-privacy-protection.png
+  links:
+    - label: Publisher
+      url: https://www.scitepress.org/PublishedPapers/2024/128636/
+
+- year: 2023
+  title: "Semantic Enrichment of Explanations of AI Models for Healthcare"
+  authors:
+    - Luca Corbucci
+    - Anna Monreale
+    - Cecilia Panigutti
+    - Michela Natilli
+    - Simona Smiraglio
+    - Dino Pedreschi
+  venue: "Discovery Science"
+  status: "Presented"
+  location: "Porto, Portugal 🇵🇹"
+  topics: [Explainable AI, Healthcare]
+  pdf: /papers/semantic-enrichment-of-explanations-of-ai-models-for-healthcare.pdf
+  preview: /img/papers/semantic-enrichment-of-explanations-of-ai-models-for-healthcare.png
+  links:
+    - label: Publisher
+      url: https://link.springer.com/chapter/10.1007/978-3-031-45275-8_15
+
+- year: 2023
+  title: "Explaining Black-Boxes in Federated Learning"
+  authors:
+    - Luca Corbucci
+    - Riccardo Guidotti
+    - Anna Monreale
+  venue: "XAI World Conference"
+  status: "Presented"
+  location: "Lisbon, Portugal 🇵🇹"
+  topics: [Federated Learning, Explainable AI]
+  pdf: /papers/explaining-black-boxes-in-federated-learning.pdf
+  preview: /img/papers/explaining-black-boxes-in-federated-learning.png
+  links:
+    - label: Publication record
+      url: https://kdd.isti.cnr.it/publications/explaining-black-boxes-federated-learning

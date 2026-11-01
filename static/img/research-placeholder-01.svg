@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Conference placeholder</title>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#172554"/>
+      <stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#background)"/>
+  <circle cx="170" cy="140" r="90" fill="#38bdf8" opacity=".22"/>
+  <rect x="120" y="210" width="560" height="220" rx="18" fill="#e0f2fe" opacity=".16"/>
+  <rect x="180" y="270" width="260" height="110" rx="10" fill="#e0f2fe" opacity=".4"/>
+  <rect x="470" y="270" width="150" height="110" rx="10" fill="#67e8f9" opacity=".5"/>
+  <text x="400" y="500" fill="#e0f2fe" font-family="system-ui, sans-serif" font-size="34" text-anchor="middle">Conference</text>
+</svg>

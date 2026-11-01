@@ -3,19 +3,23 @@ title: "What I'm doing now"
 layout: "simple"
 ---
 
-Updated February 24, 2026.
+Updated July 26, 2026.
 
-## Currently 
+## Currently
 
-- Living in Pisa, just for a few more days
-- Ready to start a new job position starting from March 1, 2026
-- Writing a list of things that I have to bring with me 
+- Living and working in Trento
+- Working as a postdoctoral researcher at Fondazione Bruno Kessler (FBK)
+- Working on Multimodal LLMs, currently focusing on SpeechLLMs
 
-## Learning 
+## Research
 
-- Still learning about LLMs and how to train them.
+My current work focuses on Multimodal LLMs, with a present focus on SpeechLLMs—models that process spoken language. I am exploring model training and data for spoken-language models while keeping my broader research interests open across multimodal AI.
 
-## Reading 
+## Learning
+
+- Continuing to learn about Multimodal LLMs and large-scale model training.
+
+## Reading
 
 - Il cigno nero di Nassim Taleb
 - La materia del cosmo di Cixin Liu

@@ -1,0 +1,106 @@
+- period: "2025 – Present"
+  type: academia
+  title: Postdoctoral Researcher
+  org: "Fondazione Bruno Kessler (FBK), Machine Translation Unit"
+  place: "Trento, Italy 🇮🇹"
+  points:
+    - "Working on Multimodal Large Language Models, with a special interest in Speech."
+
+- period: "Feb 2025"
+  type: community
+  title: Devroom Manager
+  org: '"Low-Level AI Engineering & Hacking" Dev Room @ FOSDEM 2025'
+  place: "Brussels, Belgium 🇧🇪"
+  points:
+    - "Co-organized a dedicated track for AI practitioners and researchers: call for proposals, speaker selection, schedule and logistics."
+
+- period: "Mar 2023 – Mar 2024"
+  type: work
+  title: Research Intern
+  org: "Telefónica R&D, System AI Lab"
+  place: "Barcelona, Spain 🇪🇸"
+  points:
+    - 'Designed <a href="/posts/papers/puffle-balancing-privacy-utility-and-fairness-in-federated-learning/">PUFFLE</a>: a method to balance privacy, utility and fairness in Federated Learning (ECAI 2024, patent application submitted).'
+    - "Supervised by Nicolas Kourtellis, Mikko Heikkilä and David Solans. Partially funded by the SPATIAL EU project."
+
+- period: "Jul 2022 – Present"
+  type: community
+  title: Co-founder and Core Organizer
+  org: Pisa.dev
+  place: "Pisa, Italy 🇮🇹"
+  points:
+    - "A community for developers in Pisa. 20+ meetups and social events organized."
+
+- period: "Nov 2021 – Jul 2025"
+  type: academia
+  title: "Ph.D. in Computer Science, summa cum laude"
+  org: "University of Pisa, KDD Lab"
+  place: "Pisa, Italy 🇮🇹"
+  points:
+    - 'Thesis: "Beyond Model Accuracy: Building Trustworthy Federated Learning Systems", advised by Anna Monreale and Nicolas Kourtellis.'
+    - "Privacy, fairness and explainability in Federated Learning. Partially funded by the Horizon Europe project TANGO."
+    - "Started collaborations with Telefónica Research and Johannes Gutenberg-Universität Mainz. Supervised 3 master's theses, one of which led to a paper at ECAI 2025."
+
+- period: "Jun 2021 – Oct 2021"
+  type: academia
+  title: Research Assistant
+  org: "University of Pisa"
+  place: "Pisa, Italy 🇮🇹"
+  points:
+    - "Won a research scholarship to extend my master's thesis on semantic enrichment of XAI for healthcare, later published at Discovery Science 2023."
+
+- period: "Oct 2020 – Present"
+  type: community
+  title: Co-founder and Community Manager
+  org: Superhero Valley
+  place: "Pisa, Italy 🇮🇹"
+  points:
+    - "A community of 2000+ computer scientists that bridges university and industry. 100+ members have secured roles in Big Tech."
+
+- period: "Sep 2020 – Apr 2022"
+  type: academia
+  title: Teaching Assistant
+  org: "University of Pisa"
+  place: "Pisa, Italy 🇮🇹"
+  points:
+    - 'Programming and Algorithmics, "Laboratorio 1" (JavaScript and TypeScript), and freshmen tutoring.'
+
+- period: "Mar 2020 – Jan 2021"
+  type: work
+  title: Flutter Developer
+  org: "Tocket"
+  place: "Remote 🇮🇹"
+  points:
+    - "Built the Tocket app for buying tickets to online and in-person events, plus internal APIs and dashboard. 20k+ downloads on the App Store and Google Play."
+
+- period: "Oct 2019 – Mar 2020"
+  type: academia
+  title: "Erasmus+ exchange"
+  org: "Technical University of Munich"
+  place: "Munich, Germany 🇩🇪"
+  points:
+    - "Courses in Machine Learning, Imaging and Visualization, and Cloud Databases."
+
+- period: "May 2019 – Present"
+  type: community
+  title: Co-creator and Podcaster
+  org: '<a href="https://pointerpodcast.it/">PointerPodcast</a>'
+  place: "Pisa, Italy 🇮🇹"
+  points:
+    - "A tech podcast with 280+ episodes and 70+ guests from academia and industry."
+
+- period: "2018 – 2021"
+  type: academia
+  title: "M.Sc. in Computer Science, 110/110 cum laude"
+  org: "University of Pisa"
+  place: "Pisa, Italy 🇮🇹"
+  points:
+    - 'Thesis: "Semantic enrichment of XAI explanations for healthcare", supervised by Anna Monreale and Cecilia Panigutti.'
+
+- period: "2014 – 2018"
+  type: academia
+  title: "B.Sc. in Computer Science"
+  org: "University of Pisa"
+  place: "Pisa, Italy 🇮🇹"
+  points:
+    - 'Thesis: "Construction and Analysis of the Ethereum Transaction Graphs", supervised by Laura Ricci and Damiano Di Francesco Maesa.'

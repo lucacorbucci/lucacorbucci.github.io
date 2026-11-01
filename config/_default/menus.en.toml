@@ -32,10 +32,7 @@ name = "Posts"
 pageRef = "posts"
 weight = 40
 
-[[main]]
-name = "Uses"
-pageRef = "uses"
-weight = 50
+
 
 
 

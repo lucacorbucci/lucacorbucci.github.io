@@ -4,54 +4,29 @@ description: ""
 layout: "simple"
 ---
 
-### ✍️ Publications
+## Research focus
 
-#### 2026
+My research focuses on Multimodal Large Language Models, with a current focus on SpeechLLMs, models that process spoken language. As a postdoctoral researcher at FBK, I have been working within the European projects Meetween, DVPS, and LLMs4EU. My PhD research was partially supported by the TANGO European Project, and during my research internship at Telefónica R&D in Barcelona I worked under the SPATIAL European Project on private and fair federated learning.
 
-- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato - Rashomon Sets and Model Multiplicity in Federated Learning. Preprint available on [arXiv](https://arxiv.org/abs/2602.09520). Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2025 - Montréal, Canada 🇨🇦
+## Publications
 
-- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato, Anna Monreale - FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation. Preprint available on [arXiv](https://arxiv.org/pdf/2506.21095). Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2025 - Montréal, Canada 🇨🇦
+Each paper has a short [research post](/posts/) explaining the problem, approach, and main findings.
 
-#### 2025
+{{< publication-cards >}}
 
-- **Luca Corbucci**, Javier Alejandro Borges Legrottaglie, Francesco Spinnato, Anna Monreale, Riccardo Guidotti - [An Interpretable Data-Driven Unsupervised Approach for the Prevention of Forgotten Items](https://arxiv.org/abs/2507.23303). Accepted at at the 28th European Conference on Artificial Intelligence (ECAI 2025) - Bologna, Italy 🇮🇹
-
-- **Luca Corbucci**, Francesca Naretto, Anna Monreale - [Enhancing Local Explanations with GAN-Based neighborhood generation](https://link.springer.com/chapter/10.1007/978-3-032-05461-6_21) - Accepted at Discovery Science'25 - Lubjana, Slovenia 🇸🇮
-
-- Xenia Heilmann, **Luca Corbucci**, Mattia Cerrato - [A Benchmark for Client-level Fairness in Federated Learning](https://proceedings.mlr.press/v294/heilmann25a.html). Accepted at Fourth European Workshop on Algorithmic Fairness (EWAF) 2025 - Eindhoven, The Netherlands 🇳🇱
-
-- **Luca Corbucci**, Xenia Heilmann, Mattia Cerrato - [Benefits of the Federation? Analyzing the Impact of Fair Federated Learning at the Client Level.](https://facctconference.org/static/docs/facct2025-206archivalpdfs/facct2025-final1129-acmpaginated.pdf) Accepted at ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2025 - Athens, Greece 🇬🇷
-
-- Valerio Bonsignori, **Luca Corbucci**, Francesca Naretto, Anna Monreale - [Differentially Private FastSHAP for Federated Learning Model Explainability](https://www.ijcnn.org/2025/). Accepted at International Joint Conference on Neural Networks (IJCNN) 2025 - Rome, Italy 🇮🇹
-
-#### 2024
-
-- **Luca Corbucci**, Mikko A Heikkila, David Solans Noguero, Anna Monreale, Nicolas Kourtellis - [PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning](https://arxiv.org/abs/2407.15224). Presented at the 27th European Conference on Artificial Intelligence (ECAI 2024) - Santiago de Compostela, Spain 🇪🇸
-
-- **Luca Corbucci**, Anna Monreale, Roberto Pellungrini - [Enhancing Privacy and Utility in Federated Learning: A Hybrid P2P and Server-Based Approach with Differential Privacy Protection](https://www.scitepress.org/Link.aspx?doi=10.5220/0012863600003767). Presented at the 21st International Conference on Security and Cryptography (SECRYPT 2024) - Djion, France 🇫🇷
-
-#### 2023
-
-- **Luca Corbucci**, Anna Monreale, Cecilia Panigutti, Michela Natilli, Simona Smiraglio, Dino Pedreschi - [Semantic enrichment of explanations of AI models for healthcare](https://link.springer.com/chapter/10.1007/978-3-031-45275-8_15) - Presented at Discovery Science'23 - Porto, Portugal 🇵🇹
-
-- **Luca Corbucci**, Riccardo Guidotti, Anna Monreale (2023) - [Explaining Black-Boxes in Federated Learning](https://www.researchgate.net/publication/374886178_Explaining_Black-Boxes_in_Federated_Learning) - Presented at Xai World Conference 2023 - Lisbon, Portugal 🇵🇹
-
-#### 2022
-
-- **Luca Corbucci**, Anna Monreale, Cecilia Panigutti, Michela Natilli, Simona Smiraglio, Dino Pedreschi (2022) - Semantic Enrichment of XAI Explanation for healthcare - Presented at ICAI'22 - Online
-
-### 📚 Thesis Co-Supervision
+## 📚 Thesis Co-Supervision
 
 - Elia Bisconti, "Towards Personalized Explainability: The development of a Modular Recommender System to Assess Explanation Suitability for Different Personas", Master Degree in Computer Science, 2025
 - Javier Alejandro Borges Legrottaglie, "A Data-Driven Unsupervised Approach for the Prevention of Forgotten Items"​, Master Degree in Digital Humanities, 2025
 - Francesco Cappellini, “Federated Explainable Artificial Intelligence: A Case Study"​, One-year Master in Big Data Analytics & Social Mining, 2023
 
-### Reviewer for:
+## Reviewer for
 
 **Conferences**
 
-- ECAI: 2024
+- EMNLP 2026
 - ECML-PKDD: 2024, 2025, 2026
+- ECAI: 2024
 - Discovery Science: 2024, 2026
 
 **Journals**
@@ -59,14 +34,35 @@ layout: "simple"
 - [Computer Communications](https://www.sciencedirect.com/journal/computer-communications) since February 2026
 - [TMLR](https://jmlr.org/tmlr/) since November 2025
 
-### ✈️ Participation in conferences and Summer Schools
+## European projects
 
-- **CISPA - ELLIS - Summer School 2025** - _04 August - 08 August, 2025_ - Saarbrücken, Germany 🇩🇪
+These are European projects I have contributed to at different stages of my research; they are not projects I led or won.
+
+### Current contributions
+
+- **[Meetween](https://www.meetween.eu/about/)**: a Horizon Europe project developing multilingual meeting AI, including speech-to-speech translation, summarisation, and multimodal speech models. I am contributing to deliverables and to the fine-tuning of models.
+- **[DVPS](https://dvps.translated.com/)**: a Horizon Europe project on multimodal foundation models combining speech, text, video, gestures, and other modalities. I am contributing to the development of Personalized Multimodal LLMs. 
+- **[LLMs4EU](https://www.llms4eu.eu/about/)**: an EU project focused on adapting and deploying language models across European languages and application areas. 
+
+### Previous contributions
+
+- **[TANGO](https://cordis.europa.eu/project/id/101120763)**: a Horizon Europe project on hybrid human–machine decision making. My PhD research was partially supported by this project.
+- **[SPATIAL](https://cordis.europa.eu/project/id/101021808)** — a Horizon 2020 project on secure, privacy-preserving, and trustworthy AI. During my research internship at Telefónica R&D in Barcelona, I worked on private and fair federated learning under SPATIAL.
+
+## ✈️ Participation in conferences and Summer Schools
+
+- **CLiC-it 2026**: _14-16 September, 2026_ - Palermo - Italy, 🇮🇹
+- **CISPA - ELLIS - Summer School 2025**  _04 August - 08 August, 2025_ - Saarbrücken, Germany 🇩🇪
 - **IJCNN 2025** - _30 June - 5 July, 2025_- Rome, Italy 🇮🇹
 - **Facct 2025** - _22 June - 26 June, 2025_ - Athens, Greece 🇬🇷
 - **ECAI 2024** - _21 October - 24 October, 2024_ - Santiago De Compostela, Spain 🇪🇸
 - **Summer School on Security & Privacy in the Age of AI 2024** - _10 September - 13 September, 2024_ - Leuven, Belgium 🇧🇪
 - **M2L: Mediterranean Machine Learning Summer School** - _28th August - 2nd September, 2023_ - Thessaloniki, Greece 🇬🇷
-- **XAI World Conference 2023** - _25th - July 28rd, 2023_. Lisbon, Portugal 🇵🇹
+- **XAI World Conference 2023** - _25th - July 28th, 2023_. Lisbon, Portugal 🇵🇹
 - **Lipari Summer School** - DATA SCIENCE: Models, Algorithms, AI and Beyond July - _17th - July 23rd, 2022_. Lipari 🇮🇹
 - **HHAI**: The first International Conference on Hybrid Human-Artificial Intelligence - _13-17 June 2022_, Amsterdam 🇳🇱
+
+
+<!-- ## Pictures
+
+I collect pictures from conferences, research trips, and moments with friends on the [Pictures](/pics/) page. -->

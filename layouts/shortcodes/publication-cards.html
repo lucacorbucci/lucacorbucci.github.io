@@ -1,0 +1,67 @@
+{{- $papers := site.Data.publications -}} {{- $currentYear := 0 -}}
+<div class="publication-grid">
+  {{- range $papers }} {{- if ne .year $currentYear }}
+  <h3 class="publication-year">{{ .year }}</h3>
+  {{- $currentYear = .year -}} {{- end }} {{- $postURL := printf
+  "/posts/papers/%s/" (urlize .title) -}}
+  <article
+    class="publication-card{{ if .featured }} publication-card--featured{{ end }}"
+  >
+    <a
+      class="publication-card__preview"
+      href="{{ .pdf }}"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="{{ .preview }}"
+        alt="First page preview of {{ .title }}"
+        loading="lazy"
+      />
+    </a>
+    <div class="publication-card__body">
+      <div class="publication-card__topline">
+        <span class="publication-card__year">{{ .year }}</span>
+        <span class="publication-card__status">{{ .status }}</span>
+      </div>
+      <h3 class="publication-card__title">
+        <a href="{{ .pdf }}" target="_blank" rel="noreferrer"
+          >{{ .title }}</a
+        >
+      </h3>
+      <p class="publication-card__authors">
+        {{- range $index, $author := .authors }} {{- if $index }}, {{ end -}}
+        {{- if eq $author "Luca Corbucci" }}<strong>{{ $author }}</strong>{{
+        else }}{{ $author }}{{ end -}} {{- end }}
+      </p>
+      <p class="publication-card__venue">{{ .venue }} · {{ .location }}</p>
+      <div class="publication-card__topics">
+        {{- range .topics }}<span>{{ . }}</span>{{ end -}}
+      </div>
+      <div class="publication-card__actions">
+        <a
+          class="publication-card__button publication-card__button--primary"
+          href="{{ $postURL }}"
+          >Overview</a
+        >
+        <a
+          class="publication-card__button"
+          href="{{ .pdf }}"
+          target="_blank"
+          rel="noreferrer"
+          >PDF</a
+        >
+        {{- range .links }}
+        <a
+          class="publication-card__button"
+          href="{{ .url }}"
+          target="_blank"
+          rel="noreferrer"
+          >{{ .label }}</a
+        >
+        {{- end }}
+      </div>
+    </div>
+  </article>
+  {{- end }}
+</div>
